@@ -178,7 +178,7 @@ If you find this repository useful for your work, please consider citing:
 ```
 
 ## 🙏 Acknowledgements
-This codebase adapts components from [CLoSD](https://github.com/GuyTevet/CLoSD) and [STMC](https://github.com/mathis-petrovich/stmc), and relies on SMPL/SMPL-X ecosystems, PyTorch3D, PyG and related projects. We thank the authors and maintainers of these works.
+This codebase adapts components from [CLoSD](https://github.com/GuyTevet/CLoSD), [DNO](https://github.com/korrawe/Diffusion-Noise-Optimization), and [STMC](https://github.com/mathis-petrovich/stmc), and relies on SMPL/SMPL-X ecosystems, PyTorch3D, PyG and related projects. We thank the authors and maintainers of these works.
 
 
 ### Key References
@@ -190,6 +190,13 @@ This codebase adapts components from [CLoSD](https://github.com/GuyTevet/CLoSD) 
   booktitle={The Thirteenth International Conference on Learning Representations},
   year={2025},
   url={https://openreview.net/forum?id=pZISppZSTv}
+}
+
+@inproceedings{karunratanakul2023dno,
+  title={Optimizing Diffusion Noise Can Serve As Universal Motion Priors},
+  author={Karunratanakul, Korrawe and Preechakul, Konpat and Aksan, Emre and Beeler, Thabo and Suwajanakorn, Supasorn and Tang, Siyu},
+  booktitle={arxiv:2312.11994},
+  year={2023}
 }
 
 @inproceedings{petrovich2024stmc,
