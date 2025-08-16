@@ -43,7 +43,7 @@ cd HOIDiNi
 bash setup.sh
 ```
 
-### 4. Download data from Hugging Face
+### 4. Download data and trained model from Hugging Face
 ```bash
 hf download Roey/hoidini --repo-type dataset --local-dir hoidini_data
 ```
