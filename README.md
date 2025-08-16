@@ -9,7 +9,7 @@ HOIDiNi generates realistic 3D human–object interactions conditioned on text p
 [![Project Page](https://img.shields.io/badge/Project-Website-1e90ff.svg)](https://hoidini.github.io/)
 [![arXiv](https://img.shields.io/badge/arXiv-2506.15625-b31b1b.svg)](https://arxiv.org/abs/2506.15625)
 [![Video](https://img.shields.io/badge/Video-YouTube-ff0000.svg?logo=youtube&logoColor=white)](https://youtu.be/lN1260WEe7U)
-[![Python](https://img.shields.io/badge/Python-3.10%20%7C%203.11%20%7C%203.12-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![Hydra](https://img.shields.io/badge/Config-Hydra_1.3-89b8cd)](https://hydra.cc/)
 [![Black](https://img.shields.io/badge/Code%20Style-Black-black.svg?labelColor=gray)](https://black.readthedocs.io/en/stable/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?labelColor=gray)](LICENSE)
