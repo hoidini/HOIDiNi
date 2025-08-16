@@ -14,7 +14,7 @@ This guide provides detailed installation instructions for HOIDiNi: Human–Obje
 First, clone the HOIDiNi repository:
 
 ```bash
-git clone https://github.com/roey1rg/hoidini.git
+git clone git@github.com:hoidini/HOIDiNi.git
 cd hoidini
 ```
 
