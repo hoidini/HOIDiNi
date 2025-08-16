@@ -1,0 +1,11 @@
+defaults:
+  - 0_base_config_comparison.yaml
+  - _self_
+
+
+use_dno_object: false
+use_dno_body: false
+
+# Taken from ours phase0
+
+

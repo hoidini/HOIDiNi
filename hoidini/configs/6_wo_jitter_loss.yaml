@@ -1,0 +1,6 @@
+defaults:
+  - 0_base_config.yaml
+  - _self_
+
+dno_loss_coefficients_phase2:
+  jitter_joints: 0.0

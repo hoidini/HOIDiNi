@@ -1,0 +1,6 @@
+defaults:
+  - 0_base_config.yaml
+  - _self_
+
+use_dno_object: false
+use_dno_body: true

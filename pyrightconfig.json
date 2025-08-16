@@ -1,0 +1,19 @@
+{
+    "include": ["hoidini"],
+    "exclude": [
+        "hoidini_training/**",
+        "hoidini_results/**",
+        "hoidini_data/**",
+        "**/node_modules",
+        "**/__pycache__",
+        "**/output",
+        "wandb/**",
+        "results/**",
+        "rendering/**",
+        "cache/**",
+        "user_study*/**",
+        "results/**",
+        "*.obj"
+    ],
+    "verboseOutput": true
+}

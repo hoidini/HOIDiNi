@@ -1,0 +1,7 @@
+defaults:
+  - 0_base_config.yaml
+  - _self_
+
+  
+dno_loss_coefficients_phase2:
+  penetration: 0.0

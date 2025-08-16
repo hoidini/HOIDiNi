@@ -1,0 +1,5 @@
+defaults:
+  - 0_base_config.yaml
+  - _self_
+
+one_phase_experiment: true

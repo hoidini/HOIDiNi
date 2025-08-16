@@ -1,0 +1,7 @@
+defaults:
+  - 0_base_config_comparison.yaml
+  - _self_
+
+use_classifier_guidance: true
+classifier_guidance_lr_factor: null
+classifier_guidance_n_steps: 500

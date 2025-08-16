@@ -1,0 +1,79 @@
+defaults:
+  - _self_
+
+_target_: hoidini.cphoi.CPHOIInferenceConfig
+
+model_path: /home/dcor/roeyron/trumans_utils/src/Experiments/cphoi_05011024_c15p100_v0/model000120000.pt
+out_dir: null
+# grab_dataset_path: <not overridden>
+batch_size_gen: 2
+device: 0
+sampler_config:
+  _target_: hoidini.cphoi.samplers.samplers.SpecificSampler
+  grab_seq_ids: null
+
+
+seed: null
+# autoregressive_include_prefix: <not overridden>
+guidance_param: 3.0
+n_simplify_object: 3000
+th_contact_force: 0.4
+n_simplify_hands: 1100
+
+dno_options_phase1:
+  _target_: hoidini.optimize_latent.dno.DNOOptions
+  num_opt_steps: 350
+  lr: 0.8
+  lr_warm_up_steps: 20
+  perturb_scale: 0.000001
+  diff_penalty_scale: 1e-06
+
+
+dno_loss_coefficients_phase1:
+  keep_object_static: 1.2
+  above_table: 1.2
+  similar_6dof_1: 0.5
+  similar_6dof_2: 0.5
+
+dno_options_phase2:
+  _target_: hoidini.optimize_latent.dno.DNOOptions
+  num_opt_steps: 350
+  lr: 0.8
+  lr_warm_up_steps: 20
+  perturb_scale: 0.00001
+  diff_penalty_scale: 1e-06
+  decorrelate_scale: 10
+
+
+dno_loss_coefficients_phase2:
+  contact: 0.95
+  penetration: 0.15
+  jitter_joints: 0.00008
+  above_table: 0.2
+  side_table: 0.4
+  foot_skate: 0.7
+
+use_dno_object: true
+use_dno_body: true
+anim_setup: MESH_ALL
+result_phases_to_animate: [final]
+result_phases_to_save: [final]
+
+anim_save_every_n_gens: null
+
+
+use_classifier_guidance: false
+classifier_guidance_n_steps: null
+classifier_guidance_lr_factor: null
+
+# train: <not overridden>
+
+# Extra keys not in CphoiInferenceConfig, kept at the end in their current order
+output_dir: null
+n_frames: null
+grab_dataset_path: /home/dcor/roeyron/trumans_utils/DATASETS/DATA_GRAB_RETARGETED
+autoregressive_include_prefix: true
+save_result_pickle: true 
+
+
+replace_cps_with_nearest_neighbors: false

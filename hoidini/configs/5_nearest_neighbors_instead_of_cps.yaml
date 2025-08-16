@@ -1,0 +1,5 @@
+defaults:
+  - 0_base_config.yaml
+  - _self_
+
+replace_cps_with_nearest_neighbors: true

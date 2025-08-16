@@ -1,0 +1,14 @@
+defaults:
+  - 0_base_config.yaml
+  - _self_
+
+
+result_phases_to_animate: [phase0]
+result_phases_to_save: [phase0]
+
+use_dno_object: false
+use_dno_body: false
+
+# Taken from ours phase0
+
+

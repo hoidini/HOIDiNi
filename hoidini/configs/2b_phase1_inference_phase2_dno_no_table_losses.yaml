@@ -1,0 +1,11 @@
+defaults:
+  - 0_base_config.yaml
+  - _self_
+
+use_dno_object: false
+use_dno_body: true
+
+
+dno_loss_coefficients_phase2:
+  above_table: 0.0
+  side_table: 0.0

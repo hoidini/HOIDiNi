@@ -1,0 +1,52 @@
+defaults:
+  - sampling_cphoi.yaml
+  - _self_
+
+
+out_dir: /home/dcor/roeyron/trumans_utils/results/cphoi/kitchen_debug
+model_path: /home/dcor/roeyron/trumans_utils/src/Experiments/cphoi_05011024_c15p100_v0/model000120000.pt
+use_dno_object: true
+use_dno_body: true
+use_classifier_guidance: false
+
+batch_size_gen: 1
+
+result_phases_to_save: [final] # ,phase1,phase2,final]
+result_phases_to_animate: [final] # ,phase1,phase2,final]
+n_simplify_hands: 1500
+n_simplify_object: 1500
+
+dno_options_phase1:
+  num_opt_steps: 120
+  lr: 0.7
+  lr_warm_up_steps: 20
+  perturb_scale: 0.000001
+  diff_penalty_scale: 0.0000001
+
+dno_loss_coefficients_phase1:  # ignored
+  above_table: 0.2
+  specific_6dof: 0.2
+  
+dno_options_phase2:
+  num_opt_steps: 120
+  lr: 0.7
+  lr_warm_up_steps: 20
+  perturb_scale: 0.00001
+  diff_penalty_scale: 0.0000001
+  decorrelate_scale: 10
+
+
+dno_loss_coefficients_phase2:
+  contact: 0.95
+  penetration: 0.5
+  jitter_joints: 0.0001
+  above_table: 0.2
+  side_table: 0.2
+  foot_skate: 0.5
+
+sampler_config:
+  _target_: hoidini.cphoi.samplers.samplers_simple.KitchenSamplerSimple
+  grab_seq_id: s3/lightbulb_screw_1
+  surface_name: stove
+
+replace_cps_with_nearest_neighbors: false

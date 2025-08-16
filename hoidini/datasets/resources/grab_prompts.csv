@@ -1,0 +1,1336 @@
+dp_ind,Prompt
+s5/cubemedium_inspect_1.npz,The person is inspecting a medium cube.
+s5/doorknob_lift.npz,The person is interacting with a doorknob.
+s5/waterbottle_open_1.npz,The person is interacting with a waterbottle.
+s5/binoculars_see_1.npz,The person is interacting with a binoculars.
+s5/flashlight_on_1.npz,The person is interacting with a flashlight.
+s5/binoculars_lift.npz,The person is interacting with a binoculars.
+s5/cup_drink_2.npz,The person is drinking from a cup.
+s5/bowl_drink_1.npz,The person is drinking from a bowl.
+s5/airplane_lift.npz,The person is interacting with a airplane.
+s5/cubemedium_lift.npz,The person is interacting with a medium cube.
+s5/mouse_pass_1.npz,The person is passing a mouse.
+s5/alarmclock_lift.npz,The person is interacting with a alarmclock.
+s5/gamecontroller_pass_1.npz,The person is passing a gamecontroller.
+s5/flashlight_on_2.npz,The person is interacting with a flashlight.
+s5/toothpaste_pass_1.npz,The person is passing a toothpaste.
+s5/bowl_drink_2.npz,The person is drinking from a bowl.
+s5/banana_pass_1.npz,The person is passing a banana.
+s5/cup_pass_1.npz,The person is passing a cup.
+s5/duck_pass_1.npz,The person is passing a duck.
+s5/pyramidlarge_inspect_1.npz,The person is inspecting a large pyramid.
+s5/mug_pass_1.npz,The person is passing a mug.
+s5/stamp_stamp_1.npz,The person is stamping a stamp.
+s5/wineglass_lift.npz,The person is interacting with a wineglass.
+s5/elephant_inspect_1.npz,The person is inspecting a elephant.
+s5/cubemedium_pass_1.npz,The person is passing a medium cube.
+s5/spherelarge_lift.npz,The person is interacting with a large sphere.
+s5/toruslarge_lift.npz,The person is interacting with a large torus.
+s5/spheremedium_pass_1.npz,The person is passing a medium sphere.
+s5/mouse_use_1.npz,The person is useing a mouse.
+s5/cubelarge_lift.npz,The person is interacting with a large cube.
+s5/hand_pass_1.npz,The person is passing a hand.
+s5/spheresmall_inspect_1.npz,The person is inspecting a small sphere.
+s5/stanfordbunny_lift.npz,The person is interacting with a stanfordbunny.
+s5/torusmedium_inspect_1.npz,The person is inspecting a medium torus.
+s5/gamecontroller_play_1.npz,The person is playing a gamecontroller.
+s5/eyeglasses_clean_2.npz,The person is cleaning a eyeglasses.
+s5/mug_toast_1.npz,The person is toasting a mug.
+s5/elephant_lift.npz,The person is interacting with a elephant.
+s5/piggybank_use_1.npz,The person is useing a piggybank.
+s5/piggybank_lift.npz,The person is interacting with a piggybank.
+s5/spherelarge_pass_1.npz,The person is passing a large sphere.
+s5/hammer_pass_1.npz,The person is passing a hammer.
+s5/waterbottle_shake_1.npz,The person is shakeing a waterbottle.
+s5/wineglass_toast_1.npz,The person is toasting a wineglass.
+s5/elephant_pass_1.npz,The person is passing a elephant.
+s5/cubelarge_inspect_1.npz,The person is inspecting a large cube.
+s5/stanfordbunny_inspect_1.npz,The person is inspecting a stanfordbunny.
+s5/hammer_use_1.npz,The person is useing a hammer.
+s5/cylinderlarge_inspect_1.npz,The person is inspecting a large cylinder.
+s5/cubesmall_lift.npz,The person is interacting with a small cube.
+s5/train_pass_1.npz,The person is passing a train.
+s5/spheremedium_lift.npz,The person is interacting with a medium sphere.
+s5/stapler_pass_1.npz,The person is passing a stapler.
+s5/spheremedium_inspect_1.npz,The person is inspecting a medium sphere.
+s5/alarmclock_see_1.npz,The person is interacting with a alarmclock.
+s5/cylindermedium_lift.npz,The person is interacting with a medium cylinder.
+s5/duck_lift.npz,The person is interacting with a duck.
+s5/cylindermedium_inspect_1.npz,The person is inspecting a medium cylinder.
+s5/flute_pass_1.npz,The person is passing a flute.
+s5/wineglass_pass_1.npz,The person is passing a wineglass.
+s5/cup_pour_1.npz,The person is pouring a cup.
+s5/bowl_pass_1.npz,The person is passing a bowl.
+s5/hand_inspect_1.npz,The person is inspecting a hand.
+s5/pyramidlarge_pass_1.npz,The person is passing a large pyramid.
+s5/teapot_pass_1.npz,The person is passing a teapot.
+s5/cylindermedium_pass_1.npz,The person is passing a medium cylinder.
+s5/cubesmall_pass_1.npz,The person is passing a small cube.
+s5/piggybank_pass_1.npz,The person is passing a piggybank.
+s5/cylinderlarge_lift.npz,The person is interacting with a large cylinder.
+s5/cubelarge_pass_1.npz,The person is passing a large cube.
+s5/waterbottle_lift.npz,The person is interacting with a waterbottle.
+s5/airplane_pass_1.npz,The person is passing a airplane.
+s5/scissors_pass_1.npz,The person is passing a scissors.
+s5/toothbrush_brush_1.npz,The person is brushing a toothbrush.
+s5/toruslarge_pass_1.npz,The person is passing a large torus.
+s5/spherelarge_inspect_1.npz,The person is inspecting a large sphere.
+s5/stamp_pass_1.npz,The person is passing a stamp.
+s5/cylindersmall_pass_1.npz,The person is passing a small cylinder.
+s5/banana_peel_2.npz,The person is peeling a banana.
+s5/flute_play_1.npz,The person is playing a flute.
+s5/mug_drink_1.npz,The person is drinking from a mug.
+s5/cylinderlarge_pass_1.npz,The person is passing a large cylinder.
+s5/apple_pass_1.npz,The person is passing a apple.
+s5/wineglass_drink_2.npz,The person is drinking from a wineglass.
+s5/train_lift.npz,The person is interacting with a train.
+s5/phone_pass_1.npz,The person is passing a phone.
+s5/stanfordbunny_pass_1.npz,The person is passing a stanfordbunny.
+s5/train_play_1.npz,The person is playing a train.
+s5/alarmclock_pass_1.npz,The person is passing a alarmclock.
+s5/camera_takepicture_3.npz,The person is takepictureing a camera.
+s5/flute_play_2.npz,The person is playing a flute.
+s5/gamecontroller_lift.npz,The person is interacting with a gamecontroller.
+s5/watch_pass_1.npz,The person is passing a watch.
+s5/mouse_lift.npz,The person is interacting with a mouse.
+s5/wineglass_drink_1.npz,The person is drinking from a wineglass.
+s5/cubesmall_inspect_1.npz,The person is inspecting a small cube.
+s5/torusmedium_pass_1.npz,The person is passing a medium torus.
+s5/waterbottle_pass_1.npz,The person is passing a waterbottle.
+s5/pyramidmedium_pass_1.npz,The person is passing a medium pyramid.
+s5/cylindersmall_inspect_1.npz,The person is inspecting a small cylinder.
+s5/pyramidmedium_inspect_1.npz,The person is inspecting a medium pyramid.
+s5/camera_pass_1.npz,The person is passing a camera.
+s5/cup_lift.npz,The person is interacting with a cup.
+s5/torussmall_inspect_1.npz,The person is inspecting a small torus.
+s5/duck_inspect_1.npz,The person is inspecting a duck.
+s5/binoculars_pass_1.npz,The person is passing a binoculars.
+s2/cubemedium_inspect_1.npz,The person is inspecting a medium cube.
+s2/stapler_staple_1.npz,The person is stapleing a stapler.
+s2/flashlight_on_1.npz,The person is interacting with a flashlight.
+s2/headphones_use_1.npz,The person is useing a headphones.
+s2/cubemedium_lift.npz,The person is interacting with a medium cube.
+s2/stapler_staple_2.npz,The person is stapleing a stapler.
+s2/mouse_pass_1.npz,The person is passing a mouse.
+s2/toothpaste_lift.npz,The person is interacting with a toothpaste.
+s2/gamecontroller_pass_1.npz,The person is passing a gamecontroller.
+s2/flashlight_on_2.npz,The person is interacting with a flashlight.
+s2/cup_drink_1.npz,The person is drinking from a cup.
+s2/hand_lift.npz,The person is interacting with a hand.
+s2/banana_pass_1.npz,The person is passing a banana.
+s2/cup_pass_1.npz,The person is passing a cup.
+s2/pyramidlarge_inspect_1.npz,The person is inspecting a large pyramid.
+s2/mug_pass_1.npz,The person is passing a mug.
+s2/stamp_stamp_1.npz,The person is stamping a stamp.
+s2/teapot_pour_1.npz,The person is pouring a teapot.
+s2/elephant_inspect_1.npz,The person is inspecting a elephant.
+s2/spherelarge_lift.npz,The person is interacting with a large sphere.
+s2/toruslarge_lift.npz,The person is interacting with a large torus.
+s2/spheremedium_pass_1.npz,The person is passing a medium sphere.
+s2/mouse_use_1.npz,The person is useing a mouse.
+s2/cubelarge_lift.npz,The person is interacting with a large cube.
+s2/spheresmall_inspect_1.npz,The person is inspecting a small sphere.
+s2/teapot_pour_2.npz,The person is pouring a teapot.
+s2/stanfordbunny_lift.npz,The person is interacting with a stanfordbunny.
+s2/gamecontroller_play_1.npz,The person is playing a gamecontroller.
+s2/toothpaste_squeeze_1.npz,The person is interacting with a toothpaste.
+s2/mug_toast_1.npz,The person is toasting a mug.
+s2/piggybank_use_1.npz,The person is useing a piggybank.
+s2/piggybank_lift.npz,The person is interacting with a piggybank.
+s2/headphones_pass_1.npz,The person is passing a headphones.
+s2/eyeglasses_clean_1.npz,The person is cleaning a eyeglasses.
+s2/spherelarge_pass_1.npz,The person is passing a large sphere.
+s2/eyeglasses_pass_1.npz,The person is passing a eyeglasses.
+s2/apple_eat_1.npz,The person is eating a apple.
+s2/knife_pass_1.npz,The person is passing a knife.
+s2/airplane_fly_1.npz,The person is flying a airplane.
+s2/elephant_pass_1.npz,The person is passing a elephant.
+s2/hammer_use_2.npz,The person is useing a hammer.
+s2/phone_call_1.npz,The person is calling a phone.
+s2/cubelarge_inspect_1.npz,The person is inspecting a large cube.
+s2/banana_eat_1.npz,The person is eating a banana.
+s2/toruslarge_inspect_1.npz,The person is inspecting a large torus.
+s2/stanfordbunny_inspect_1.npz,The person is inspecting a stanfordbunny.
+s2/hammer_use_1.npz,The person is useing a hammer.
+s2/cylinderlarge_inspect_1.npz,The person is inspecting a large cylinder.
+s2/pyramidlarge_pass_1_Retake.npz,The person is passing a large pyramid.
+s2/cubesmall_lift.npz,The person is interacting with a small cube.
+s2/train_pass_1.npz,The person is passing a train.
+s2/stapler_pass_1.npz,The person is passing a stapler.
+s2/torussmall_lift.npz,The person is interacting with a small torus.
+s2/cylindermedium_lift.npz,The person is interacting with a medium cylinder.
+s2/cylindermedium_inspect_1.npz,The person is inspecting a medium cylinder.
+s2/camera_lift.npz,The person is interacting with a camera.
+s2/flute_pass_1.npz,The person is passing a flute.
+s2/toothbrush_lift.npz,The person is interacting with a toothbrush.
+s2/scissors_use_1.npz,The person is useing a scissors.
+s2/hand_inspect_1.npz,The person is inspecting a hand.
+s2/mug_lift.npz,The person is interacting with a mug.
+s2/teapot_pass_1.npz,The person is passing a teapot.
+s2/cylindermedium_pass_1.npz,The person is passing a medium cylinder.
+s2/cubesmall_pass_1.npz,The person is passing a small cube.
+s2/headphones_lift.npz,The person is interacting with a headphones.
+s2/cylinderlarge_lift.npz,The person is interacting with a large cylinder.
+s2/cubelarge_pass_1.npz,The person is passing a large cube.
+s2/camera_browse_1.npz,The person is browseing a camera.
+s2/teapot_lift.npz,The person is interacting with a teapot.
+s2/toruslarge_pass_1.npz,The person is passing a large torus.
+s2/spherelarge_inspect_1.npz,The person is inspecting a large sphere.
+s2/pyramidlarge_lift.npz,The person is interacting with a large pyramid.
+s2/piggybank_pass_1_Retake.npz,The person is passing a piggybank.
+s2/cylindersmall_pass_1.npz,The person is passing a small cylinder.
+s2/apple_lift.npz,The person is interacting with a apple.
+s2/mug_drink_1.npz,The person is drinking from a mug.
+s2/doorknob_use_2.npz,The person is useing a doorknob.
+s2/cylinderlarge_pass_1.npz,The person is passing a large cylinder.
+s2/apple_pass_1.npz,The person is passing a apple.
+s2/train_lift.npz,The person is interacting with a train.
+s2/phone_pass_1.npz,The person is passing a phone.
+s2/stanfordbunny_pass_1.npz,The person is passing a stanfordbunny.
+s2/train_play_1.npz,The person is playing a train.
+s2/banana_peel_1.npz,The person is peeling a banana.
+s2/camera_takepicture_2.npz,The person is takepictureing a camera.
+s2/mug_drink_2.npz,The person is drinking from a mug.
+s2/cubesmall_inspect_1.npz,The person is inspecting a small cube.
+s2/hammer_lift.npz,The person is interacting with a hammer.
+s2/pyramidmedium_pass_1.npz,The person is passing a medium pyramid.
+s2/fryingpan_pass_1.npz,The person is passing a fryingpan.
+s2/pyramidmedium_inspect_1.npz,The person is inspecting a medium pyramid.
+s2/camera_pass_1.npz,The person is passing a camera.
+s2/duck_inspect_1.npz,The person is inspecting a duck.
+s3/knife_lift.npz,The person is interacting with a knife.
+s3/binoculars_offhand_1.npz,The person is holding a binoculars with one hand.
+s3/cubemedium_inspect_1.npz,The person is inspecting a medium cube.
+s3/stapler_staple_1.npz,The person is stapleing a stapler.
+s3/waterbottle_drink_1.npz,The person is drinking from a waterbottle.
+s3/binoculars_see_1.npz,The person is interacting with a binoculars.
+s3/flashlight_on_1.npz,The person is interacting with a flashlight.
+s3/binoculars_lift.npz,The person is interacting with a binoculars.
+s3/cup_drink_2.npz,The person is drinking from a cup.
+s3/bowl_drink_1.npz,The person is drinking from a bowl.
+s3/headphones_use_1.npz,The person is useing a headphones.
+s3/airplane_lift.npz,The person is interacting with a airplane.
+s3/mouse_pass_1.npz,The person is passing a mouse.
+s3/toothpaste_lift.npz,The person is interacting with a toothpaste.
+s3/alarmclock_lift.npz,The person is interacting with a alarmclock.
+s3/watch_set_1.npz,The person is seting a watch.
+s3/gamecontroller_pass_1.npz,The person is passing a gamecontroller.
+s3/cup_drink_1.npz,The person is drinking from a cup.
+s3/toothpaste_pass_1.npz,The person is passing a toothpaste.
+s3/bowl_drink_2.npz,The person is drinking from a bowl.
+s3/stamp_lift.npz,The person is interacting with a stamp.
+s3/cup_pass_1.npz,The person is passing a cup.
+s3/pyramidlarge_inspect_1.npz,The person is inspecting a large pyramid.
+s3/mug_pass_1.npz,The person is passing a mug.
+s3/stamp_stamp_1.npz,The person is stamping a stamp.
+s3/wineglass_lift.npz,The person is interacting with a wineglass.
+s3/toruslarge_lift.npz,The person is interacting with a large torus.
+s3/mouse_use_1.npz,The person is useing a mouse.
+s3/cubelarge_lift.npz,The person is interacting with a large cube.
+s3/hand_pass_1.npz,The person is passing a hand.
+s3/mug_offhand_1.npz,The person is holding a mug with one hand.
+s3/stanfordbunny_lift.npz,The person is interacting with a stanfordbunny.
+s3/torusmedium_inspect_1.npz,The person is inspecting a medium torus.
+s3/eyeglasses_offhand_1.npz,The person is holding a eyeglasses with one hand.
+s3/gamecontroller_play_1.npz,The person is playing a gamecontroller.
+s3/toothpaste_squeeze_1.npz,The person is interacting with a toothpaste.
+s3/flashlight_pass_1.npz,The person is passing a flashlight.
+s3/elephant_lift.npz,The person is interacting with a elephant.
+s3/piggybank_use_1.npz,The person is useing a piggybank.
+s3/spheresmall_pass_1.npz,The person is passing a small sphere.
+s3/eyeglasses_clean_1.npz,The person is cleaning a eyeglasses.
+s3/spherelarge_pass_1.npz,The person is passing a large sphere.
+s3/hammer_pass_1.npz,The person is passing a hammer.
+s3/wineglass_toast_1.npz,The person is toasting a wineglass.
+s3/eyeglasses_pass_1.npz,The person is passing a eyeglasses.
+s3/apple_eat_1.npz,The person is eating a apple.
+s3/apple_offhand_1.npz,The person is holding a apple with one hand.
+s3/airplane_fly_1.npz,The person is flying a airplane.
+s3/elephant_pass_1.npz,The person is passing a elephant.
+s3/stapler_lift.npz,The person is interacting with a stapler.
+s3/hammer_use_2.npz,The person is useing a hammer.
+s3/phone_call_1.npz,The person is calling a phone.
+s3/toruslarge_inspect_1.npz,The person is inspecting a large torus.
+s3/stanfordbunny_inspect_1.npz,The person is inspecting a stanfordbunny.
+s3/hammer_use_1.npz,The person is useing a hammer.
+s3/waterbottle_pour_2.npz,The person is pouring a waterbottle.
+s3/cylinderlarge_inspect_1.npz,The person is inspecting a large cylinder.
+s3/train_pass_1.npz,The person is passing a train.
+s3/cup_offhand_1.npz,The person is holding a cup with one hand.
+s3/stapler_pass_1.npz,The person is passing a stapler.
+s3/spheremedium_inspect_1.npz,The person is inspecting a medium sphere.
+s3/alarmclock_see_1.npz,The person is interacting with a alarmclock.
+s3/scissors_use_2.npz,The person is useing a scissors.
+s3/cylindermedium_lift.npz,The person is interacting with a medium cylinder.
+s3/cubelarge_offhand_1.npz,The person is holding a large cube with one hand.
+s3/wineglass_pass_1.npz,The person is passing a wineglass.
+s3/airplane_offhand_1.npz,The person is holding a airplane with one hand.
+s3/cup_pour_1.npz,The person is pouring a cup.
+s3/scissors_use_1.npz,The person is useing a scissors.
+s3/pyramidlarge_pass_1.npz,The person is passing a large pyramid.
+s3/cylindermedium_pass_1.npz,The person is passing a medium cylinder.
+s3/piggybank_pass_1.npz,The person is passing a piggybank.
+s3/pyramidsmall_pass_1.npz,The person is passing a small pyramid.
+s3/cubelarge_pass_1.npz,The person is passing a large cube.
+s3/flute_offhand_1.npz,The person is holding a flute with one hand.
+s3/waterbottle_lift.npz,The person is interacting with a waterbottle.
+s3/airplane_pass_1.npz,The person is passing a airplane.
+s3/scissors_pass_1.npz,The person is passing a scissors.
+s3/toothbrush_brush_1.npz,The person is brushing a toothbrush.
+s3/toruslarge_pass_1.npz,The person is passing a large torus.
+s3/cylinderlarge_lift_Retake.npz,The person is lifting a large cylinder.
+s3/spherelarge_inspect_1.npz,The person is inspecting a large sphere.
+s3/pyramidlarge_offhand_1.npz,The person is holding a large pyramid with one hand.
+s3/toothbrush_pass_1.npz,The person is passing a toothbrush.
+s3/stamp_pass_1.npz,The person is passing a stamp.
+s3/cylindersmall_pass_1.npz,The person is passing a small cylinder.
+s3/flute_play_1.npz,The person is playing a flute.
+s3/alarmclock_offhand_1.npz,The person is holding a alarmclock with one hand.
+s3/apple_lift.npz,The person is interacting with a apple.
+s3/camera_takepicture_1.npz,The person is takepictureing a camera.
+s3/mug_drink_1.npz,The person is drinking from a mug.
+s3/doorknob_use_2.npz,The person is useing a doorknob.
+s3/elephant_offhand_1.npz,The person is holding a elephant with one hand.
+s3/cylinderlarge_pass_1.npz,The person is passing a large cylinder.
+s3/apple_pass_1.npz,The person is passing a apple.
+s3/wineglass_drink_2.npz,The person is drinking from a wineglass.
+s3/train_lift.npz,The person is interacting with a train.
+s3/eyeglasses_wear_1.npz,The person is interacting with a eyeglasses.
+s3/phone_pass_1.npz,The person is passing a phone.
+s3/stanfordbunny_pass_1.npz,The person is passing a stanfordbunny.
+s3/train_play_1.npz,The person is playing a train.
+s3/alarmclock_pass_1.npz,The person is passing a alarmclock.
+s3/camera_offhand_1.npz,The person is holding a camera with one hand.
+s3/mug_drink_3.npz,The person is drinking from a mug.
+s3/camera_takepicture_3.npz,The person is takepictureing a camera.
+s3/gamecontroller_lift.npz,The person is interacting with a gamecontroller.
+s3/watch_pass_1.npz,The person is passing a watch.
+s3/camera_takepicture_2.npz,The person is takepictureing a camera.
+s3/mug_drink_2.npz,The person is drinking from a mug.
+s3/mouse_offhand_1.npz,The person is holding a mouse with one hand.
+s3/doorknob_use_1.npz,The person is useing a doorknob.
+s3/mouse_lift.npz,The person is interacting with a mouse.
+s3/wineglass_drink_1.npz,The person is drinking from a wineglass.
+s3/cubesmall_inspect_1.npz,The person is inspecting a small cube.
+s3/lightbulb_screw_1.npz,The person is screwing a lightbulb.
+s3/fryingpan_lift.npz,The person is interacting with a fryingpan.
+s3/torusmedium_pass_1.npz,The person is passing a medium torus.
+s3/waterbottle_pass_1.npz,The person is passing a waterbottle.
+s3/pyramidmedium_pass_1.npz,The person is passing a medium pyramid.
+s3/cylindersmall_inspect_1.npz,The person is inspecting a small cylinder.
+s3/pyramidmedium_inspect_1.npz,The person is inspecting a medium pyramid.
+s3/camera_pass_1.npz,The person is passing a camera.
+s3/mug_drink_4.npz,The person is drinking from a mug.
+s3/cup_lift.npz,The person is interacting with a cup.
+s3/duck_inspect_1.npz,The person is inspecting a duck.
+s4/cubemedium_inspect_1.npz,The person is inspecting a medium cube.
+s4/doorknob_lift.npz,The person is interacting with a doorknob.
+s4/stapler_staple_1.npz,The person is stapleing a stapler.
+s4/waterbottle_drink_1.npz,The person is drinking from a waterbottle.
+s4/binoculars_see_1.npz,The person is interacting with a binoculars.
+s4/fryingpan_cook_1.npz,The person is interacting with a fryingpan.
+s4/watch_set_2.npz,The person is seting a watch.
+s4/binoculars_lift.npz,The person is interacting with a binoculars.
+s4/cup_drink_2.npz,The person is drinking from a cup.
+s4/bowl_drink_1.npz,The person is drinking from a bowl.
+s4/headphones_use_1.npz,The person is useing a headphones.
+s4/cubemedium_lift.npz,The person is interacting with a medium cube.
+s4/stapler_staple_2.npz,The person is stapleing a stapler.
+s4/fryingpan_cook_2.npz,The person is interacting with a fryingpan.
+s4/mouse_pass_1.npz,The person is passing a mouse.
+s4/alarmclock_lift.npz,The person is interacting with a alarmclock.
+s4/watch_set_1.npz,The person is seting a watch.
+s4/gamecontroller_pass_1.npz,The person is passing a gamecontroller.
+s4/cup_drink_1.npz,The person is drinking from a cup.
+s4/hand_lift.npz,The person is interacting with a hand.
+s4/toothpaste_pass_1.npz,The person is passing a toothpaste.
+s4/bowl_drink_2.npz,The person is drinking from a bowl.
+s4/banana_pass_1.npz,The person is passing a banana.
+s4/stamp_lift.npz,The person is interacting with a stamp.
+s4/cup_pass_1.npz,The person is passing a cup.
+s4/fryingpan_cook_3.npz,The person is interacting with a fryingpan.
+s4/cylindersmall_lift.npz,The person is interacting with a small cylinder.
+s4/duck_pass_1.npz,The person is passing a duck.
+s4/mug_pass_1.npz,The person is passing a mug.
+s4/mouse_use_2.npz,The person is useing a mouse.
+s4/stamp_stamp_1.npz,The person is stamping a stamp.
+s4/wineglass_lift.npz,The person is interacting with a wineglass.
+s4/elephant_inspect_1.npz,The person is inspecting a elephant.
+s4/cubemedium_pass_1.npz,The person is passing a medium cube.
+s4/spherelarge_lift.npz,The person is interacting with a large sphere.
+s4/spheremedium_pass_1.npz,The person is passing a medium sphere.
+s4/mouse_use_1.npz,The person is useing a mouse.
+s4/cubelarge_lift.npz,The person is interacting with a large cube.
+s4/hand_pass_1.npz,The person is passing a hand.
+s4/teapot_pour_2.npz,The person is pouring a teapot.
+s4/stanfordbunny_lift.npz,The person is interacting with a stanfordbunny.
+s4/torusmedium_inspect_1.npz,The person is inspecting a medium torus.
+s4/flashlight_pass_1.npz,The person is passing a flashlight.
+s4/piggybank_use_1.npz,The person is useing a piggybank.
+s4/spheresmall_pass_1.npz,The person is passing a small sphere.
+s4/piggybank_lift.npz,The person is interacting with a piggybank.
+s4/headphones_pass_1.npz,The person is passing a headphones.
+s4/spherelarge_pass_1.npz,The person is passing a large sphere.
+s4/waterbottle_shake_1.npz,The person is shakeing a waterbottle.
+s4/wineglass_toast_1.npz,The person is toasting a wineglass.
+s4/apple_eat_1.npz,The person is eating a apple.
+s4/hammer_use_3.npz,The person is useing a hammer.
+s4/airplane_fly_1.npz,The person is flying a airplane.
+s4/elephant_pass_1.npz,The person is passing a elephant.
+s4/stapler_lift.npz,The person is interacting with a stapler.
+s4/hammer_use_2.npz,The person is useing a hammer.
+s4/phone_call_1.npz,The person is calling a phone.
+s4/waterbottle_pour_1.npz,The person is pouring a waterbottle.
+s4/cubelarge_inspect_1.npz,The person is inspecting a large cube.
+s4/stanfordbunny_inspect_1.npz,The person is inspecting a stanfordbunny.
+s4/hammer_use_1.npz,The person is useing a hammer.
+s4/cylinderlarge_inspect_1.npz,The person is inspecting a large cylinder.
+s4/train_pass_1.npz,The person is passing a train.
+s4/spheremedium_lift.npz,The person is interacting with a medium sphere.
+s4/spheresmall_lift.npz,The person is interacting with a small sphere.
+s4/stapler_pass_1.npz,The person is passing a stapler.
+s4/spheremedium_inspect_1.npz,The person is inspecting a medium sphere.
+s4/torussmall_lift.npz,The person is interacting with a small torus.
+s4/alarmclock_see_1.npz,The person is interacting with a alarmclock.
+s4/camera_lift.npz,The person is interacting with a camera.
+s4/wineglass_pass_1.npz,The person is passing a wineglass.
+s4/cup_pour_1.npz,The person is pouring a cup.
+s4/bowl_pass_1.npz,The person is passing a bowl.
+s4/hand_inspect_1.npz,The person is inspecting a hand.
+s4/pyramidlarge_pass_1.npz,The person is passing a large pyramid.
+s4/cubesmall_pass_1.npz,The person is passing a small cube.
+s4/piggybank_pass_1.npz,The person is passing a piggybank.
+s4/cylinderlarge_lift.npz,The person is interacting with a large cylinder.
+s4/cubelarge_pass_1.npz,The person is passing a large cube.
+s4/airplane_pass_1.npz,The person is passing a airplane.
+s4/scissors_pass_1.npz,The person is passing a scissors.
+s4/toruslarge_pass_1.npz,The person is passing a large torus.
+s4/spherelarge_inspect_1.npz,The person is inspecting a large sphere.
+s4/torussmall_pass_1.npz,The person is passing a small torus.
+s4/phone_lift.npz,The person is interacting with a phone.
+s4/toothbrush_pass_1.npz,The person is passing a toothbrush.
+s4/stamp_pass_1.npz,The person is passing a stamp.
+s4/cylindersmall_pass_1.npz,The person is passing a small cylinder.
+s4/flute_play_1.npz,The person is playing a flute.
+s4/apple_lift.npz,The person is interacting with a apple.
+s4/cylinderlarge_pass_1.npz,The person is passing a large cylinder.
+s4/apple_pass_1.npz,The person is passing a apple.
+s4/wineglass_drink_2.npz,The person is drinking from a wineglass.
+s4/train_lift.npz,The person is interacting with a train.
+s4/phone_pass_1.npz,The person is passing a phone.
+s4/stanfordbunny_pass_1.npz,The person is passing a stanfordbunny.
+s4/train_play_1.npz,The person is playing a train.
+s4/alarmclock_pass_1.npz,The person is passing a alarmclock.
+s4/camera_takepicture_3.npz,The person is takepictureing a camera.
+s4/watch_pass_1.npz,The person is passing a watch.
+s4/camera_takepicture_2.npz,The person is takepictureing a camera.
+s4/mug_drink_2.npz,The person is drinking from a mug.
+s4/doorknob_use_1.npz,The person is useing a doorknob.
+s4/wineglass_drink_1.npz,The person is drinking from a wineglass.
+s4/pyramidmedium_pass_1.npz,The person is passing a medium pyramid.
+s4/fryingpan_pass_1.npz,The person is passing a fryingpan.
+s4/watch_lift.npz,The person is interacting with a watch.
+s4/pyramidmedium_inspect_1.npz,The person is inspecting a medium pyramid.
+s4/camera_pass_1.npz,The person is passing a camera.
+s4/cup_lift.npz,The person is interacting with a cup.
+s4/torusmedium_lift.npz,The person is interacting with a medium torus.
+s4/duck_inspect_1.npz,The person is inspecting a duck.
+s4/binoculars_pass_1.npz,The person is passing a binoculars.
+s10/cubemedium_inspect_1.npz,The person is inspecting a medium cube.
+s10/doorknob_lift.npz,The person is interacting with a doorknob.
+s10/stapler_staple_1.npz,The person is stapleing a stapler.
+s10/waterbottle_drink_1.npz,The person is drinking from a waterbottle.
+s10/binoculars_see_1.npz,The person is interacting with a binoculars.
+s10/fryingpan_cook_1.npz,The person is interacting with a fryingpan.
+s10/flashlight_on_1.npz,The person is interacting with a flashlight.
+s10/binoculars_lift.npz,The person is interacting with a binoculars.
+s10/cup_drink_2.npz,The person is drinking from a cup.
+s10/headphones_use_1.npz,The person is useing a headphones.
+s10/airplane_lift.npz,The person is interacting with a airplane.
+s10/cubemedium_lift.npz,The person is interacting with a medium cube.
+s10/stapler_staple_2.npz,The person is stapleing a stapler.
+s10/fryingpan_cook_2.npz,The person is interacting with a fryingpan.
+s10/mouse_pass_1.npz,The person is passing a mouse.
+s10/toothpaste_lift.npz,The person is interacting with a toothpaste.
+s10/gamecontroller_pass_1.npz,The person is passing a gamecontroller.
+s10/flashlight_on_2.npz,The person is interacting with a flashlight.
+s10/cup_drink_1.npz,The person is drinking from a cup.
+s10/hand_lift.npz,The person is interacting with a hand.
+s10/toothpaste_pass_1.npz,The person is passing a toothpaste.
+s10/bowl_drink_2.npz,The person is drinking from a bowl.
+s10/banana_pass_1.npz,The person is passing a banana.
+s10/knife_chop_1.npz,The person is choping a knife.
+s10/stamp_lift.npz,The person is interacting with a stamp.
+s10/cup_pass_1.npz,The person is passing a cup.
+s10/duck_pass_1.npz,The person is passing a duck.
+s10/mug_pass_1.npz,The person is passing a mug.
+s10/stamp_stamp_1.npz,The person is stamping a stamp.
+s10/teapot_pour_1.npz,The person is pouring a teapot.
+s10/banana_lift.npz,The person is interacting with a banana.
+s10/wineglass_lift.npz,The person is interacting with a wineglass.
+s10/elephant_inspect_1.npz,The person is inspecting a elephant.
+s10/cubemedium_pass_1.npz,The person is passing a medium cube.
+s10/spherelarge_lift.npz,The person is interacting with a large sphere.
+s10/toruslarge_lift.npz,The person is interacting with a large torus.
+s10/spheremedium_pass_1.npz,The person is passing a medium sphere.
+s10/mouse_use_1.npz,The person is useing a mouse.
+s10/cubelarge_lift.npz,The person is interacting with a large cube.
+s10/hand_pass_1.npz,The person is passing a hand.
+s10/spheresmall_inspect_1.npz,The person is inspecting a small sphere.
+s10/teapot_pour_2.npz,The person is pouring a teapot.
+s10/stanfordbunny_lift.npz,The person is interacting with a stanfordbunny.
+s10/torusmedium_inspect_1.npz,The person is inspecting a medium torus.
+s10/gamecontroller_play_1.npz,The person is playing a gamecontroller.
+s10/toothpaste_squeeze_1.npz,The person is interacting with a toothpaste.
+s10/mug_toast_1.npz,The person is toasting a mug.
+s10/piggybank_use_1.npz,The person is useing a piggybank.
+s10/spheresmall_pass_1.npz,The person is passing a small sphere.
+s10/toothpaste_squeeze_2.npz,The person is interacting with a toothpaste.
+s10/headphones_pass_1.npz,The person is passing a headphones.
+s10/alarmclock_lift_Retake.npz,The person is lifting a alarmclock.
+s10/spherelarge_pass_1.npz,The person is passing a large sphere.
+s10/hammer_pass_1.npz,The person is passing a hammer.
+s10/wineglass_toast_1.npz,The person is toasting a wineglass.
+s10/apple_eat_1.npz,The person is eating a apple.
+s10/hammer_use_3.npz,The person is useing a hammer.
+s10/knife_pass_1.npz,The person is passing a knife.
+s10/airplane_fly_1.npz,The person is flying a airplane.
+s10/elephant_pass_1.npz,The person is passing a elephant.
+s10/stapler_lift.npz,The person is interacting with a stapler.
+s10/hammer_use_2.npz,The person is useing a hammer.
+s10/phone_call_1.npz,The person is calling a phone.
+s10/waterbottle_pour_1.npz,The person is pouring a waterbottle.
+s10/cubelarge_inspect_1.npz,The person is inspecting a large cube.
+s10/banana_eat_1.npz,The person is eating a banana.
+s10/toruslarge_inspect_1.npz,The person is inspecting a large torus.
+s10/pyramidmedium_lift.npz,The person is interacting with a medium pyramid.
+s10/bowl_lift.npz,The person is interacting with a bowl.
+s10/stanfordbunny_inspect_1.npz,The person is inspecting a stanfordbunny.
+s10/hammer_use_1.npz,The person is useing a hammer.
+s10/cylinderlarge_inspect_1.npz,The person is inspecting a large cylinder.
+s10/cubesmall_lift.npz,The person is interacting with a small cube.
+s10/train_pass_1.npz,The person is passing a train.
+s10/spheremedium_lift.npz,The person is interacting with a medium sphere.
+s10/stapler_pass_1.npz,The person is passing a stapler.
+s10/spheremedium_inspect_1.npz,The person is inspecting a medium sphere.
+s10/torussmall_lift.npz,The person is interacting with a small torus.
+s10/alarmclock_see_1.npz,The person is interacting with a alarmclock.
+s10/cylindermedium_inspect_1.npz,The person is inspecting a medium cylinder.
+s10/flute_pass_1.npz,The person is passing a flute.
+s10/wineglass_pass_1.npz,The person is passing a wineglass.
+s10/cup_pour_1.npz,The person is pouring a cup.
+s10/bowl_pass_1.npz,The person is passing a bowl.
+s10/scissors_use_1.npz,The person is useing a scissors.
+s10/hand_inspect_1.npz,The person is inspecting a hand.
+s10/mug_lift.npz,The person is interacting with a mug.
+s10/pyramidlarge_pass_1.npz,The person is passing a large pyramid.
+s10/teapot_pass_1.npz,The person is passing a teapot.
+s10/cylindermedium_pass_1.npz,The person is passing a medium cylinder.
+s10/cubesmall_pass_1.npz,The person is passing a small cube.
+s10/knife_peel_1.npz,The person is peeling a knife.
+s10/piggybank_pass_1.npz,The person is passing a piggybank.
+s10/headphones_lift.npz,The person is interacting with a headphones.
+s10/cylinderlarge_lift.npz,The person is interacting with a large cylinder.
+s10/cubelarge_pass_1.npz,The person is passing a large cube.
+s10/camera_browse_1.npz,The person is browseing a camera.
+s10/lightbulb_pass_1.npz,The person is passing a lightbulb.
+s10/pyramidsmall_inspect_1.npz,The person is inspecting a small pyramid.
+s10/bowl_drink_1_Retake.npz,The person is drinking from a bowl.
+s10/airplane_pass_1.npz,The person is passing a airplane.
+s10/scissors_pass_1.npz,The person is passing a scissors.
+s10/toruslarge_pass_1.npz,The person is passing a large torus.
+s10/spherelarge_inspect_1.npz,The person is inspecting a large sphere.
+s10/torussmall_pass_1.npz,The person is passing a small torus.
+s10/phone_lift.npz,The person is interacting with a phone.
+s10/stamp_pass_1.npz,The person is passing a stamp.
+s10/cylindersmall_pass_1.npz,The person is passing a small cylinder.
+s10/banana_peel_2.npz,The person is peeling a banana.
+s10/flute_play_1.npz,The person is playing a flute.
+s10/camera_takepicture_1.npz,The person is takepictureing a camera.
+s10/mug_drink_1.npz,The person is drinking from a mug.
+s10/doorknob_use_2.npz,The person is useing a doorknob.
+s10/cylinderlarge_pass_1.npz,The person is passing a large cylinder.
+s10/apple_pass_1.npz,The person is passing a apple.
+s10/wineglass_drink_2.npz,The person is drinking from a wineglass.
+s10/train_lift.npz,The person is interacting with a train.
+s10/hand_shake_1.npz,The person is shakeing a hand.
+s10/eyeglasses_wear_1.npz,The person is interacting with a eyeglasses.
+s10/phone_pass_1.npz,The person is passing a phone.
+s10/stanfordbunny_pass_1.npz,The person is passing a stanfordbunny.
+s10/train_play_1.npz,The person is playing a train.
+s10/alarmclock_pass_1.npz,The person is passing a alarmclock.
+s10/banana_peel_1.npz,The person is peeling a banana.
+s10/camera_takepicture_3.npz,The person is takepictureing a camera.
+s10/gamecontroller_lift.npz,The person is interacting with a gamecontroller.
+s10/watch_pass_1.npz,The person is passing a watch.
+s10/camera_takepicture_2.npz,The person is takepictureing a camera.
+s10/mug_drink_2.npz,The person is drinking from a mug.
+s10/doorknob_use_1.npz,The person is useing a doorknob.
+s10/mouse_lift.npz,The person is interacting with a mouse.
+s10/wineglass_drink_1.npz,The person is drinking from a wineglass.
+s10/cubesmall_inspect_1.npz,The person is inspecting a small cube.
+s10/lightbulb_screw_1.npz,The person is screwing a lightbulb.
+s10/hammer_lift.npz,The person is interacting with a hammer.
+s10/torusmedium_pass_1.npz,The person is passing a medium torus.
+s10/waterbottle_pass_1.npz,The person is passing a waterbottle.
+s10/pyramidmedium_pass_1.npz,The person is passing a medium pyramid.
+s10/cylindersmall_inspect_1.npz,The person is inspecting a small cylinder.
+s10/pyramidmedium_inspect_1.npz,The person is inspecting a medium pyramid.
+s10/camera_pass_1.npz,The person is passing a camera.
+s10/cup_lift.npz,The person is interacting with a cup.
+s10/torusmedium_lift.npz,The person is interacting with a medium torus.
+s10/torussmall_inspect_1.npz,The person is inspecting a small torus.
+s10/binoculars_pass_1.npz,The person is passing a binoculars.
+s8/cubemedium_inspect_1.npz,The person is inspecting a medium cube.
+s8/doorknob_lift.npz,The person is interacting with a doorknob.
+s8/stapler_staple_1.npz,The person is stapleing a stapler.
+s8/waterbottle_drink_1.npz,The person is drinking from a waterbottle.
+s8/cubesmall_offhand_1.npz,The person is holding a small cube with one hand.
+s8/binoculars_see_1.npz,The person is interacting with a binoculars.
+s8/fryingpan_cook_1.npz,The person is interacting with a fryingpan.
+s8/watch_set_2.npz,The person is seting a watch.
+s8/flashlight_on_1.npz,The person is interacting with a flashlight.
+s8/bowl_drink_1.npz,The person is drinking from a bowl.
+s8/cubemedium_lift.npz,The person is interacting with a medium cube.
+s8/stapler_staple_2.npz,The person is stapleing a stapler.
+s8/fryingpan_cook_2.npz,The person is interacting with a fryingpan.
+s8/mouse_pass_1.npz,The person is passing a mouse.
+s8/toothpaste_lift.npz,The person is interacting with a toothpaste.
+s8/alarmclock_lift.npz,The person is interacting with a alarmclock.
+s8/gamecontroller_pass_1.npz,The person is passing a gamecontroller.
+s8/flashlight_on_2.npz,The person is interacting with a flashlight.
+s8/cup_drink_1.npz,The person is drinking from a cup.
+s8/hand_lift.npz,The person is interacting with a hand.
+s8/toothpaste_pass_1.npz,The person is passing a toothpaste.
+s8/bowl_drink_2.npz,The person is drinking from a bowl.
+s8/banana_pass_1.npz,The person is passing a banana.
+s8/knife_chop_1.npz,The person is choping a knife.
+s8/stamp_lift.npz,The person is interacting with a stamp.
+s8/cup_pass_1.npz,The person is passing a cup.
+s8/fryingpan_cook_3.npz,The person is interacting with a fryingpan.
+s8/cylindersmall_lift.npz,The person is interacting with a small cylinder.
+s8/duck_pass_1.npz,The person is passing a duck.
+s8/pyramidlarge_inspect_1.npz,The person is inspecting a large pyramid.
+s8/mug_pass_1.npz,The person is passing a mug.
+s8/stamp_stamp_1.npz,The person is stamping a stamp.
+s8/teapot_pour_1.npz,The person is pouring a teapot.
+s8/banana_lift.npz,The person is interacting with a banana.
+s8/wineglass_lift.npz,The person is interacting with a wineglass.
+s8/elephant_inspect_1.npz,The person is inspecting a elephant.
+s8/cubemedium_pass_1.npz,The person is passing a medium cube.
+s8/spherelarge_lift.npz,The person is interacting with a large sphere.
+s8/toruslarge_lift.npz,The person is interacting with a large torus.
+s8/spheremedium_pass_1.npz,The person is passing a medium sphere.
+s8/mouse_use_1.npz,The person is useing a mouse.
+s8/cubelarge_lift.npz,The person is interacting with a large cube.
+s8/hand_pass_1.npz,The person is passing a hand.
+s8/spheresmall_inspect_1.npz,The person is inspecting a small sphere.
+s8/teapot_pour_2.npz,The person is pouring a teapot.
+s8/mug_offhand_1.npz,The person is holding a mug with one hand.
+s8/stanfordbunny_lift.npz,The person is interacting with a stanfordbunny.
+s8/torusmedium_inspect_1.npz,The person is inspecting a medium torus.
+s8/gamecontroller_play_1.npz,The person is playing a gamecontroller.
+s8/toothpaste_squeeze_1.npz,The person is interacting with a toothpaste.
+s8/flashlight_pass_1.npz,The person is passing a flashlight.
+s8/mug_toast_1.npz,The person is toasting a mug.
+s8/elephant_lift.npz,The person is interacting with a elephant.
+s8/piggybank_use_1.npz,The person is useing a piggybank.
+s8/spheresmall_pass_1.npz,The person is passing a small sphere.
+s8/piggybank_lift.npz,The person is interacting with a piggybank.
+s8/toothpaste_squeeze_2.npz,The person is interacting with a toothpaste.
+s8/headphones_pass_1.npz,The person is passing a headphones.
+s8/spherelarge_pass_1.npz,The person is passing a large sphere.
+s8/hammer_pass_1.npz,The person is passing a hammer.
+s8/wineglass_toast_1.npz,The person is toasting a wineglass.
+s8/eyeglasses_pass_1.npz,The person is passing a eyeglasses.
+s8/apple_eat_1.npz,The person is eating a apple.
+s8/hammer_use_3.npz,The person is useing a hammer.
+s8/flashlight_offhand_1.npz,The person is holding a flashlight with one hand.
+s8/bowl_offhand_1.npz,The person is holding a bowl with one hand.
+s8/knife_pass_1.npz,The person is passing a knife.
+s8/airplane_fly_1.npz,The person is flying a airplane.
+s8/elephant_pass_1.npz,The person is passing a elephant.
+s8/stapler_lift.npz,The person is interacting with a stapler.
+s8/hammer_use_2.npz,The person is useing a hammer.
+s8/phone_call_1.npz,The person is calling a phone.
+s8/cubelarge_inspect_1.npz,The person is inspecting a large cube.
+s8/banana_eat_1.npz,The person is eating a banana.
+s8/toruslarge_inspect_1.npz,The person is inspecting a large torus.
+s8/bowl_lift.npz,The person is interacting with a bowl.
+s8/stanfordbunny_inspect_1.npz,The person is inspecting a stanfordbunny.
+s8/hammer_use_1.npz,The person is useing a hammer.
+s8/cylinderlarge_inspect_1.npz,The person is inspecting a large cylinder.
+s8/cubesmall_lift.npz,The person is interacting with a small cube.
+s8/train_pass_1.npz,The person is passing a train.
+s8/cup_offhand_1.npz,The person is holding a cup with one hand.
+s8/spheremedium_lift.npz,The person is interacting with a medium sphere.
+s8/spheresmall_lift.npz,The person is interacting with a small sphere.
+s8/stapler_pass_1.npz,The person is passing a stapler.
+s8/alarmclock_see_1.npz,The person is interacting with a alarmclock.
+s8/cylindermedium_lift.npz,The person is interacting with a medium cylinder.
+s8/cubelarge_offhand_1.npz,The person is holding a large cube with one hand.
+s8/phone_offhand_1.npz,The person is holding a phone with one hand.
+s8/duck_lift.npz,The person is interacting with a duck.
+s8/cylindermedium_inspect_1.npz,The person is inspecting a medium cylinder.
+s8/flute_pass_1.npz,The person is passing a flute.
+s8/wineglass_pass_1.npz,The person is passing a wineglass.
+s8/cup_pour_1.npz,The person is pouring a cup.
+s8/bowl_pass_1.npz,The person is passing a bowl.
+s8/cylinderlarge_offhand_1.npz,The person is holding a large cylinder with one hand.
+s8/hand_inspect_1.npz,The person is inspecting a hand.
+s8/mug_lift.npz,The person is interacting with a mug.
+s8/pyramidlarge_pass_1.npz,The person is passing a large pyramid.
+s8/teapot_pass_1.npz,The person is passing a teapot.
+s8/cylindermedium_pass_1.npz,The person is passing a medium cylinder.
+s8/cubesmall_pass_1.npz,The person is passing a small cube.
+s8/knife_peel_1.npz,The person is peeling a knife.
+s8/piggybank_pass_1.npz,The person is passing a piggybank.
+s8/headphones_lift.npz,The person is interacting with a headphones.
+s8/cylinderlarge_lift.npz,The person is interacting with a large cylinder.
+s8/cubelarge_pass_1.npz,The person is passing a large cube.
+s8/camera_browse_1.npz,The person is browseing a camera.
+s8/lightbulb_pass_1.npz,The person is passing a lightbulb.
+s8/waterbottle_lift.npz,The person is interacting with a waterbottle.
+s8/teapot_lift.npz,The person is interacting with a teapot.
+s8/airplane_pass_1.npz,The person is passing a airplane.
+s8/scissors_pass_1.npz,The person is passing a scissors.
+s8/toothbrush_brush_1.npz,The person is brushing a toothbrush.
+s8/toruslarge_pass_1.npz,The person is passing a large torus.
+s8/spherelarge_inspect_1.npz,The person is inspecting a large sphere.
+s8/torussmall_pass_1.npz,The person is passing a small torus.
+s8/phone_lift.npz,The person is interacting with a phone.
+s8/toothbrush_pass_1.npz,The person is passing a toothbrush.
+s8/stamp_pass_1.npz,The person is passing a stamp.
+s8/banana_peel_2.npz,The person is peeling a banana.
+s8/flute_play_1.npz,The person is playing a flute.
+s8/apple_lift.npz,The person is interacting with a apple.
+s8/mug_drink_1.npz,The person is drinking from a mug.
+s8/doorknob_use_2.npz,The person is useing a doorknob.
+s8/cylinderlarge_pass_1.npz,The person is passing a large cylinder.
+s8/apple_pass_1.npz,The person is passing a apple.
+s8/wineglass_drink_2.npz,The person is drinking from a wineglass.
+s8/train_lift.npz,The person is interacting with a train.
+s8/eyeglasses_wear_1.npz,The person is interacting with a eyeglasses.
+s8/phone_pass_1.npz,The person is passing a phone.
+s8/stanfordbunny_pass_1.npz,The person is passing a stanfordbunny.
+s8/train_play_1.npz,The person is playing a train.
+s8/alarmclock_pass_1.npz,The person is passing a alarmclock.
+s8/camera_offhand_1.npz,The person is holding a camera with one hand.
+s8/banana_peel_1.npz,The person is peeling a banana.
+s8/camera_takepicture_3.npz,The person is takepictureing a camera.
+s8/fryingpan_offhand_1.npz,The person is holding a fryingpan with one hand.
+s8/gamecontroller_lift.npz,The person is interacting with a gamecontroller.
+s8/watch_pass_1.npz,The person is passing a watch.
+s8/camera_takepicture_2.npz,The person is takepictureing a camera.
+s8/mug_drink_2.npz,The person is drinking from a mug.
+s8/doorknob_use_1.npz,The person is useing a doorknob.
+s8/mouse_lift.npz,The person is interacting with a mouse.
+s8/wineglass_drink_1.npz,The person is drinking from a wineglass.
+s8/cubemedium_offhand_1.npz,The person is holding a medium cube with one hand.
+s8/cubesmall_inspect_1.npz,The person is inspecting a small cube.
+s8/fryingpan_lift.npz,The person is interacting with a fryingpan.
+s8/hammer_lift.npz,The person is interacting with a hammer.
+s8/torusmedium_pass_1.npz,The person is passing a medium torus.
+s8/waterbottle_pass_1.npz,The person is passing a waterbottle.
+s8/pyramidmedium_pass_1.npz,The person is passing a medium pyramid.
+s8/fryingpan_pass_1.npz,The person is passing a fryingpan.
+s8/watch_lift.npz,The person is interacting with a watch.
+s8/cylindersmall_inspect_1.npz,The person is inspecting a small cylinder.
+s8/pyramidmedium_inspect_1.npz,The person is inspecting a medium pyramid.
+s8/camera_pass_1.npz,The person is passing a camera.
+s8/cup_lift.npz,The person is interacting with a cup.
+s8/torusmedium_lift.npz,The person is interacting with a medium torus.
+s8/torussmall_inspect_1.npz,The person is inspecting a small torus.
+s8/duck_inspect_1.npz,The person is inspecting a duck.
+s8/binoculars_pass_1.npz,The person is passing a binoculars.
+s1/knife_lift.npz,The person is interacting with a knife.
+s1/binoculars_offhand_1.npz,The person is holding a binoculars with one hand.
+s1/eyeglasses_lift.npz,The person is interacting with a eyeglasses.
+s1/cubemedium_inspect_1.npz,The person is inspecting a medium cube.
+s1/waterbottle_open_1.npz,The person is interacting with a waterbottle.
+s1/stapler_staple_1.npz,The person is stapleing a stapler.
+s1/waterbottle_drink_1.npz,The person is drinking from a waterbottle.
+s1/cubesmall_offhand_1.npz,The person is holding a small cube with one hand.
+s1/binoculars_see_1.npz,The person is interacting with a binoculars.
+s1/fryingpan_cook_1.npz,The person is interacting with a fryingpan.
+s1/stamp_offhand_1.npz,The person is holding a stamp with one hand.
+s1/watch_set_2.npz,The person is seting a watch.
+s1/flashlight_on_1.npz,The person is interacting with a flashlight.
+s1/binoculars_lift.npz,The person is interacting with a binoculars.
+s1/cup_drink_2.npz,The person is drinking from a cup.
+s1/bowl_drink_1.npz,The person is drinking from a bowl.
+s1/headphones_use_1.npz,The person is useing a headphones.
+s1/duck_offhand_2.npz,The person is holding a duck with one hand.
+s1/watch_offhand_1.npz,The person is holding a watch with one hand.
+s1/airplane_lift.npz,The person is interacting with a airplane.
+s1/cubemedium_lift.npz,The person is interacting with a medium cube.
+s1/flashlight_lift.npz,The person is interacting with a flashlight.
+s1/stapler_staple_2.npz,The person is stapleing a stapler.
+s1/fryingpan_cook_2.npz,The person is interacting with a fryingpan.
+s1/cylindersmall_offhand_1.npz,The person is holding a small cylinder with one hand.
+s1/pyramidmedium_offhand_1.npz,The person is holding a medium pyramid with one hand.
+s1/mouse_pass_1.npz,The person is passing a mouse.
+s1/toothpaste_lift.npz,The person is interacting with a toothpaste.
+s1/alarmclock_lift.npz,The person is interacting with a alarmclock.
+s1/watch_set_1.npz,The person is seting a watch.
+s1/flashlight_on_2.npz,The person is interacting with a flashlight.
+s1/cup_drink_1.npz,The person is drinking from a cup.
+s1/toothpaste_pass_1.npz,The person is passing a toothpaste.
+s1/bowl_drink_2.npz,The person is drinking from a bowl.
+s1/banana_pass_1.npz,The person is passing a banana.
+s1/torussmall_offhand_1.npz,The person is holding a small torus with one hand.
+s1/stamp_lift.npz,The person is interacting with a stamp.
+s1/duck_offhand_1.npz,The person is holding a duck with one hand.
+s1/cup_pass_1.npz,The person is passing a cup.
+s1/cylindersmall_lift.npz,The person is interacting with a small cylinder.
+s1/duck_pass_1.npz,The person is passing a duck.
+s1/pyramidlarge_inspect_1.npz,The person is inspecting a large pyramid.
+s1/train_offhand_1.npz,The person is holding a train with one hand.
+s1/mug_pass_1.npz,The person is passing a mug.
+s1/stamp_stamp_1.npz,The person is stamping a stamp.
+s1/teapot_pour_1.npz,The person is pouring a teapot.
+s1/wineglass_offhand_1.npz,The person is holding a wineglass with one hand.
+s1/banana_lift.npz,The person is interacting with a banana.
+s1/wineglass_lift.npz,The person is interacting with a wineglass.
+s1/elephant_inspect_1.npz,The person is inspecting a elephant.
+s1/cubemedium_pass_1.npz,The person is passing a medium cube.
+s1/spherelarge_lift.npz,The person is interacting with a large sphere.
+s1/toruslarge_lift.npz,The person is interacting with a large torus.
+s1/spheremedium_pass_1.npz,The person is passing a medium sphere.
+s1/mouse_use_1.npz,The person is useing a mouse.
+s1/cubelarge_lift.npz,The person is interacting with a large cube.
+s1/hand_pass_1.npz,The person is passing a hand.
+s1/spheresmall_inspect_1.npz,The person is inspecting a small sphere.
+s1/mug_offhand_1.npz,The person is holding a mug with one hand.
+s1/stanfordbunny_lift.npz,The person is interacting with a stanfordbunny.
+s1/scissors_offhand_1.npz,The person is holding a scissors with one hand.
+s1/torusmedium_inspect_1.npz,The person is inspecting a medium torus.
+s1/eyeglasses_offhand_1.npz,The person is holding a eyeglasses with one hand.
+s1/gamecontroller_play_1.npz,The person is playing a gamecontroller.
+s1/toothpaste_squeeze_1.npz,The person is interacting with a toothpaste.
+s1/flashlight_pass_1.npz,The person is passing a flashlight.
+s1/mug_toast_1.npz,The person is toasting a mug.
+s1/camera_takepicture_3_Retake.npz,The person is interacting with a camera.
+s1/elephant_lift.npz,The person is interacting with a elephant.
+s1/piggybank_use_1.npz,The person is useing a piggybank.
+s1/spheresmall_pass_1.npz,The person is passing a small sphere.
+s1/piggybank_lift.npz,The person is interacting with a piggybank.
+s1/headphones_pass_1.npz,The person is passing a headphones.
+s1/eyeglasses_clean_1.npz,The person is cleaning a eyeglasses.
+s1/spherelarge_pass_1.npz,The person is passing a large sphere.
+s1/hammer_pass_1.npz,The person is passing a hammer.
+s1/spherelarge_offhand_1.npz,The person is holding a large sphere with one hand.
+s1/wineglass_toast_1.npz,The person is toasting a wineglass.
+s1/eyeglasses_pass_1.npz,The person is passing a eyeglasses.
+s1/apple_eat_1.npz,The person is eating a apple.
+s1/hammer_use_3.npz,The person is useing a hammer.
+s1/flashlight_offhand_1.npz,The person is holding a flashlight with one hand.
+s1/spheremedium_offhand_1.npz,The person is holding a medium sphere with one hand.
+s1/apple_offhand_1.npz,The person is holding a apple with one hand.
+s1/airplane_fly_1.npz,The person is flying a airplane.
+s1/elephant_pass_1.npz,The person is passing a elephant.
+s1/stapler_lift.npz,The person is interacting with a stapler.
+s1/hammer_use_2.npz,The person is useing a hammer.
+s1/phone_call_1.npz,The person is calling a phone.
+s1/waterbottle_pour_1.npz,The person is pouring a waterbottle.
+s1/cubelarge_inspect_1.npz,The person is inspecting a large cube.
+s1/banana_eat_1.npz,The person is eating a banana.
+s1/cylindermedium_offhand_1.npz,The person is holding a medium cylinder with one hand.
+s1/toruslarge_inspect_1.npz,The person is inspecting a large torus.
+s1/pyramidmedium_lift.npz,The person is interacting with a medium pyramid.
+s1/bowl_lift.npz,The person is interacting with a bowl.
+s1/stanfordbunny_inspect_1.npz,The person is inspecting a stanfordbunny.
+s1/hammer_use_1.npz,The person is useing a hammer.
+s1/cylinderlarge_inspect_1.npz,The person is inspecting a large cylinder.
+s1/hand_offhand_1.npz,The person is holding a hand with one hand.
+s1/cubesmall_lift.npz,The person is interacting with a small cube.
+s1/banana_offhand_1.npz,The person is holding a banana with one hand.
+s1/doorknob_use_fun_1.npz,The person is interacting with a doorknob.
+s1/spheremedium_lift.npz,The person is interacting with a medium sphere.
+s1/spheresmall_lift.npz,The person is interacting with a small sphere.
+s1/stapler_pass_1.npz,The person is passing a stapler.
+s1/spheremedium_inspect_1.npz,The person is inspecting a medium sphere.
+s1/torussmall_lift.npz,The person is interacting with a small torus.
+s1/alarmclock_see_1.npz,The person is interacting with a alarmclock.
+s1/scissors_use_2.npz,The person is useing a scissors.
+s1/cylindermedium_lift.npz,The person is interacting with a medium cylinder.
+s1/cubelarge_offhand_1.npz,The person is holding a large cube with one hand.
+s1/stapler_offhand_1.npz,The person is holding a stapler with one hand.
+s1/phone_offhand_1.npz,The person is holding a phone with one hand.
+s1/duck_lift.npz,The person is interacting with a duck.
+s1/cylindermedium_inspect_1.npz,The person is inspecting a medium cylinder.
+s1/camera_lift.npz,The person is interacting with a camera.
+s1/flute_pass_1.npz,The person is passing a flute.
+s1/toothbrush_lift.npz,The person is interacting with a toothbrush.
+s1/wineglass_pass_1.npz,The person is passing a wineglass.
+s1/airplane_offhand_1.npz,The person is holding a airplane with one hand.
+s1/cup_pour_1.npz,The person is pouring a cup.
+s1/stanfordbunny_offhand_1.npz,The person is holding a stanfordbunny with one hand.
+s1/bowl_pass_1.npz,The person is passing a bowl.
+s1/cylinderlarge_offhand_1.npz,The person is holding a large cylinder with one hand.
+s1/hand_inspect_1.npz,The person is inspecting a hand.
+s1/mug_lift.npz,The person is interacting with a mug.
+s1/flute_lift.npz,The person is interacting with a flute.
+s1/pyramidlarge_pass_1.npz,The person is passing a large pyramid.
+s1/headphones_offhand_1.npz,The person is holding a headphones with one hand.
+s1/teapot_pass_1.npz,The person is passing a teapot.
+s1/cylindermedium_pass_1.npz,The person is passing a medium cylinder.
+s1/cubesmall_pass_1.npz,The person is passing a small cube.
+s1/piggybank_pass_1.npz,The person is passing a piggybank.
+s1/pyramidsmall_pass_1.npz,The person is passing a small pyramid.
+s1/cylinderlarge_lift.npz,The person is interacting with a large cylinder.
+s1/cubelarge_pass_1.npz,The person is passing a large cube.
+s1/camera_browse_1.npz,The person is browseing a camera.
+s1/lightbulb_pass_1.npz,The person is passing a lightbulb.
+s1/flute_offhand_1.npz,The person is holding a flute with one hand.
+s1/pyramidsmall_inspect_1.npz,The person is inspecting a small pyramid.
+s1/waterbottle_lift.npz,The person is interacting with a waterbottle.
+s1/airplane_pass_1.npz,The person is passing a airplane.
+s1/scissors_pass_1.npz,The person is passing a scissors.
+s1/toruslarge_pass_1.npz,The person is passing a large torus.
+s1/piggybank_offhand_1.npz,The person is holding a piggybank with one hand.
+s1/spherelarge_inspect_1.npz,The person is inspecting a large sphere.
+s1/gamecontroller_offhand_1.npz,The person is holding a gamecontroller with one hand.
+s1/torussmall_pass_1.npz,The person is passing a small torus.
+s1/phone_lift.npz,The person is interacting with a phone.
+s1/pyramidlarge_lift.npz,The person is interacting with a large pyramid.
+s1/pyramidlarge_offhand_1.npz,The person is holding a large pyramid with one hand.
+s1/stamp_pass_1.npz,The person is passing a stamp.
+s1/cylindersmall_pass_1.npz,The person is passing a small cylinder.
+s1/banana_peel_2.npz,The person is peeling a banana.
+s1/flute_play_1.npz,The person is playing a flute.
+s1/alarmclock_offhand_1.npz,The person is holding a alarmclock with one hand.
+s1/apple_lift.npz,The person is interacting with a apple.
+s1/camera_takepicture_1.npz,The person is takepictureing a camera.
+s1/mug_drink_1.npz,The person is drinking from a mug.
+s1/doorknob_use_2.npz,The person is useing a doorknob.
+s1/elephant_offhand_1.npz,The person is holding a elephant with one hand.
+s1/cylinderlarge_pass_1.npz,The person is passing a large cylinder.
+s1/apple_pass_1.npz,The person is passing a apple.
+s1/wineglass_drink_2.npz,The person is drinking from a wineglass.
+s1/eyeglasses_wear_1.npz,The person is interacting with a eyeglasses.
+s1/phone_pass_1.npz,The person is passing a phone.
+s1/stanfordbunny_pass_1.npz,The person is passing a stanfordbunny.
+s1/train_play_1.npz,The person is playing a train.
+s1/alarmclock_pass_1.npz,The person is passing a alarmclock.
+s1/camera_offhand_1.npz,The person is holding a camera with one hand.
+s1/spheresmall_offhand_1.npz,The person is holding a small sphere with one hand.
+s1/banana_peel_1.npz,The person is peeling a banana.
+s1/mug_drink_3.npz,The person is drinking from a mug.
+s1/gamecontroller_lift.npz,The person is interacting with a gamecontroller.
+s1/watch_pass_1.npz,The person is passing a watch.
+s1/camera_takepicture_2.npz,The person is takepictureing a camera.
+s1/mug_drink_2.npz,The person is drinking from a mug.
+s1/mouse_offhand_1.npz,The person is holding a mouse with one hand.
+s1/doorknob_use_1.npz,The person is useing a doorknob.
+s1/mouse_lift.npz,The person is interacting with a mouse.
+s1/torusmedium_offhand_1.npz,The person is holding a medium torus with one hand.
+s1/cubemedium_offhand_1.npz,The person is holding a medium cube with one hand.
+s1/waterbottle_offhand_1.npz,The person is holding a waterbottle with one hand.
+s1/cubesmall_inspect_1.npz,The person is inspecting a small cube.
+s1/torusmedium_pass_1.npz,The person is passing a medium torus.
+s1/waterbottle_pass_1.npz,The person is passing a waterbottle.
+s1/pyramidmedium_pass_1.npz,The person is passing a medium pyramid.
+s1/watch_lift.npz,The person is interacting with a watch.
+s1/cylindersmall_inspect_1.npz,The person is inspecting a small cylinder.
+s1/pyramidmedium_inspect_1.npz,The person is inspecting a medium pyramid.
+s1/camera_pass_1.npz,The person is passing a camera.
+s1/mug_drink_4.npz,The person is drinking from a mug.
+s1/cup_lift.npz,The person is interacting with a cup.
+s1/torusmedium_lift.npz,The person is interacting with a medium torus.
+s1/torussmall_inspect_1.npz,The person is inspecting a small torus.
+s1/duck_inspect_1.npz,The person is inspecting a duck.
+s1/binoculars_pass_1.npz,The person is passing a binoculars.
+s6/knife_lift.npz,The person is interacting with a knife.
+s6/eyeglasses_lift.npz,The person is interacting with a eyeglasses.
+s6/cubemedium_inspect_1.npz,The person is inspecting a medium cube.
+s6/doorknob_lift.npz,The person is interacting with a doorknob.
+s6/waterbottle_open_1.npz,The person is interacting with a waterbottle.
+s6/stapler_staple_1.npz,The person is stapleing a stapler.
+s6/waterbottle_drink_1.npz,The person is drinking from a waterbottle.
+s6/cubesmall_offhand_1.npz,The person is holding a small cube with one hand.
+s6/binoculars_see_1.npz,The person is interacting with a binoculars.
+s6/watch_set_2.npz,The person is seting a watch.
+s6/flashlight_on_1.npz,The person is interacting with a flashlight.
+s6/binoculars_lift.npz,The person is interacting with a binoculars.
+s6/cup_drink_2.npz,The person is drinking from a cup.
+s6/bowl_drink_1.npz,The person is drinking from a bowl.
+s6/headphones_use_1.npz,The person is useing a headphones.
+s6/airplane_lift.npz,The person is interacting with a airplane.
+s6/cubemedium_lift.npz,The person is interacting with a medium cube.
+s6/stapler_staple_2.npz,The person is stapleing a stapler.
+s6/mouse_pass_1.npz,The person is passing a mouse.
+s6/toothpaste_lift.npz,The person is interacting with a toothpaste.
+s6/alarmclock_lift.npz,The person is interacting with a alarmclock.
+s6/watch_set_1.npz,The person is seting a watch.
+s6/gamecontroller_pass_1.npz,The person is passing a gamecontroller.
+s6/flashlight_on_2.npz,The person is interacting with a flashlight.
+s6/cup_drink_1.npz,The person is drinking from a cup.
+s6/hand_lift.npz,The person is interacting with a hand.
+s6/toothpaste_pass_1.npz,The person is passing a toothpaste.
+s6/banana_pass_1.npz,The person is passing a banana.
+s6/stamp_lift.npz,The person is interacting with a stamp.
+s6/cup_pass_1.npz,The person is passing a cup.
+s6/duck_pass_1.npz,The person is passing a duck.
+s6/pyramidlarge_inspect_1.npz,The person is inspecting a large pyramid.
+s6/mug_pass_1.npz,The person is passing a mug.
+s6/stamp_stamp_1.npz,The person is stamping a stamp.
+s6/teapot_pour_1.npz,The person is pouring a teapot.
+s6/wineglass_lift.npz,The person is interacting with a wineglass.
+s6/elephant_inspect_1.npz,The person is inspecting a elephant.
+s6/cubemedium_pass_1.npz,The person is passing a medium cube.
+s6/spherelarge_lift.npz,The person is interacting with a large sphere.
+s6/toruslarge_lift.npz,The person is interacting with a large torus.
+s6/spheremedium_pass_1.npz,The person is passing a medium sphere.
+s6/hand_pass_1.npz,The person is passing a hand.
+s6/teapot_pour_2.npz,The person is pouring a teapot.
+s6/stapler_staple_1_Retake.npz,The person is interacting with a stapler.
+s6/torusmedium_inspect_1.npz,The person is inspecting a medium torus.
+s6/gamecontroller_play_1.npz,The person is playing a gamecontroller.
+s6/flashlight_pass_1.npz,The person is passing a flashlight.
+s6/mug_toast_1.npz,The person is toasting a mug.
+s6/spheresmall_pass_1.npz,The person is passing a small sphere.
+s6/toothpaste_squeeze_2.npz,The person is interacting with a toothpaste.
+s6/headphones_pass_1.npz,The person is passing a headphones.
+s6/eyeglasses_clean_1.npz,The person is cleaning a eyeglasses.
+s6/spherelarge_pass_1.npz,The person is passing a large sphere.
+s6/hammer_pass_1.npz,The person is passing a hammer.
+s6/waterbottle_shake_1.npz,The person is shakeing a waterbottle.
+s6/wineglass_toast_1.npz,The person is toasting a wineglass.
+s6/apple_offhand_1_Retake.npz,The person is holding a apple with one hand.
+s6/eyeglasses_pass_1.npz,The person is passing a eyeglasses.
+s6/apple_eat_1.npz,The person is eating a apple.
+s6/hammer_use_3.npz,The person is useing a hammer.
+s6/airplane_fly_1.npz,The person is flying a airplane.
+s6/elephant_pass_1.npz,The person is passing a elephant.
+s6/stapler_lift.npz,The person is interacting with a stapler.
+s6/hammer_use_2.npz,The person is useing a hammer.
+s6/phone_call_1.npz,The person is calling a phone.
+s6/waterbottle_pour_1.npz,The person is pouring a waterbottle.
+s6/cubelarge_inspect_1.npz,The person is inspecting a large cube.
+s6/stapler_offhand_1_Retake.npz,The person is holding a stapler with one hand.
+s6/banana_eat_1.npz,The person is eating a banana.
+s6/piggybank_lift_Retake.npz,The person is lifting a piggybank.
+s6/toruslarge_inspect_1.npz,The person is inspecting a large torus.
+s6/bowl_lift.npz,The person is interacting with a bowl.
+s6/stanfordbunny_inspect_1.npz,The person is inspecting a stanfordbunny.
+s6/hammer_use_1.npz,The person is useing a hammer.
+s6/cylinderlarge_inspect_1.npz,The person is inspecting a large cylinder.
+s6/cubesmall_lift.npz,The person is interacting with a small cube.
+s6/train_pass_1.npz,The person is passing a train.
+s6/spheremedium_lift.npz,The person is interacting with a medium sphere.
+s6/spheresmall_lift.npz,The person is interacting with a small sphere.
+s6/stapler_pass_1.npz,The person is passing a stapler.
+s6/spheremedium_inspect_1.npz,The person is inspecting a medium sphere.
+s6/alarmclock_see_1.npz,The person is interacting with a alarmclock.
+s6/scissors_use_2.npz,The person is useing a scissors.
+s6/cylindermedium_lift.npz,The person is interacting with a medium cylinder.
+s6/duck_lift.npz,The person is interacting with a duck.
+s6/cylindermedium_inspect_1.npz,The person is inspecting a medium cylinder.
+s6/camera_lift.npz,The person is interacting with a camera.
+s6/flute_pass_1.npz,The person is passing a flute.
+s6/wineglass_pass_1.npz,The person is passing a wineglass.
+s6/cup_pour_1.npz,The person is pouring a cup.
+s6/bowl_pass_1.npz,The person is passing a bowl.
+s6/hand_inspect_1.npz,The person is inspecting a hand.
+s6/mug_lift.npz,The person is interacting with a mug.
+s6/flute_lift.npz,The person is interacting with a flute.
+s6/pyramidlarge_pass_1.npz,The person is passing a large pyramid.
+s6/teapot_pass_1.npz,The person is passing a teapot.
+s6/cylindermedium_pass_1.npz,The person is passing a medium cylinder.
+s6/cubesmall_pass_1.npz,The person is passing a small cube.
+s6/knife_peel_1.npz,The person is peeling a knife.
+s6/piggybank_pass_1.npz,The person is passing a piggybank.
+s6/cylinderlarge_lift.npz,The person is interacting with a large cylinder.
+s6/cubelarge_pass_1.npz,The person is passing a large cube.
+s6/camera_browse_1.npz,The person is browseing a camera.
+s6/bowl_drink_1_Retake.npz,The person is drinking from a bowl.
+s6/airplane_pass_1.npz,The person is passing a airplane.
+s6/toruslarge_pass_1.npz,The person is passing a large torus.
+s6/spherelarge_inspect_1.npz,The person is inspecting a large sphere.
+s6/torussmall_pass_1.npz,The person is passing a small torus.
+s6/phone_lift.npz,The person is interacting with a phone.
+s6/pyramidlarge_lift.npz,The person is interacting with a large pyramid.
+s6/pyramidsmall_inspect_2.npz,The person is inspecting a small pyramid.
+s6/stamp_pass_1.npz,The person is passing a stamp.
+s6/cylindersmall_pass_1.npz,The person is passing a small cylinder.
+s6/banana_peel_2.npz,The person is peeling a banana.
+s6/flute_play_1.npz,The person is playing a flute.
+s6/apple_lift.npz,The person is interacting with a apple.
+s6/camera_takepicture_1.npz,The person is takepictureing a camera.
+s6/doorknob_use_2.npz,The person is useing a doorknob.
+s6/cylinderlarge_pass_1.npz,The person is passing a large cylinder.
+s6/apple_pass_1.npz,The person is passing a apple.
+s6/wineglass_drink_2.npz,The person is drinking from a wineglass.
+s6/eyeglasses_wear_1.npz,The person is interacting with a eyeglasses.
+s6/phone_pass_1.npz,The person is passing a phone.
+s6/stanfordbunny_pass_1.npz,The person is passing a stanfordbunny.
+s6/train_play_1.npz,The person is playing a train.
+s6/alarmclock_pass_1.npz,The person is passing a alarmclock.
+s6/banana_peel_1.npz,The person is peeling a banana.
+s6/camera_takepicture_3.npz,The person is takepictureing a camera.
+s6/gamecontroller_lift.npz,The person is interacting with a gamecontroller.
+s6/watch_pass_1.npz,The person is passing a watch.
+s6/camera_takepicture_2.npz,The person is takepictureing a camera.
+s6/mug_drink_2.npz,The person is drinking from a mug.
+s6/doorknob_use_1.npz,The person is useing a doorknob.
+s6/mouse_lift.npz,The person is interacting with a mouse.
+s6/wineglass_drink_1.npz,The person is drinking from a wineglass.
+s6/cubesmall_inspect_1.npz,The person is inspecting a small cube.
+s6/hammer_lift.npz,The person is interacting with a hammer.
+s6/torusmedium_pass_1.npz,The person is passing a medium torus.
+s6/waterbottle_pass_1.npz,The person is passing a waterbottle.
+s6/pyramidmedium_pass_1.npz,The person is passing a medium pyramid.
+s6/fryingpan_pass_1.npz,The person is passing a fryingpan.
+s6/cylindersmall_inspect_1.npz,The person is inspecting a small cylinder.
+s6/pyramidmedium_inspect_1.npz,The person is inspecting a medium pyramid.
+s6/camera_pass_1.npz,The person is passing a camera.
+s6/cup_lift.npz,The person is interacting with a cup.
+s6/toothpaste_squeeze_1_Retake.npz,The person is interacting with a toothpaste.
+s6/duck_inspect_1.npz,The person is inspecting a duck.
+s6/binoculars_pass_1.npz,The person is passing a binoculars.
+s7/eyeglasses_lift.npz,The person is interacting with a eyeglasses.
+s7/cubemedium_inspect_1.npz,The person is inspecting a medium cube.
+s7/doorknob_lift.npz,The person is interacting with a doorknob.
+s7/stapler_staple_1.npz,The person is stapleing a stapler.
+s7/waterbottle_drink_1.npz,The person is drinking from a waterbottle.
+s7/binoculars_see_1.npz,The person is interacting with a binoculars.
+s7/fryingpan_cook_1.npz,The person is interacting with a fryingpan.
+s7/flashlight_on_1.npz,The person is interacting with a flashlight.
+s7/binoculars_lift.npz,The person is interacting with a binoculars.
+s7/bowl_drink_1.npz,The person is drinking from a bowl.
+s7/headphones_use_1.npz,The person is useing a headphones.
+s7/cubemedium_lift.npz,The person is interacting with a medium cube.
+s7/flashlight_lift.npz,The person is interacting with a flashlight.
+s7/mouse_pass_1.npz,The person is passing a mouse.
+s7/alarmclock_lift.npz,The person is interacting with a alarmclock.
+s7/gamecontroller_pass_1.npz,The person is passing a gamecontroller.
+s7/flashlight_on_2.npz,The person is interacting with a flashlight.
+s7/cup_drink_1.npz,The person is drinking from a cup.
+s7/banana_pass_1.npz,The person is passing a banana.
+s7/knife_chop_1.npz,The person is choping a knife.
+s7/cup_pass_1.npz,The person is passing a cup.
+s7/duck_pass_1.npz,The person is passing a duck.
+s7/pyramidlarge_inspect_1.npz,The person is inspecting a large pyramid.
+s7/stamp_stamp_1.npz,The person is stamping a stamp.
+s7/banana_lift.npz,The person is interacting with a banana.
+s7/wineglass_lift.npz,The person is interacting with a wineglass.
+s7/elephant_inspect_1.npz,The person is inspecting a elephant.
+s7/cubemedium_pass_1.npz,The person is passing a medium cube.
+s7/spherelarge_lift.npz,The person is interacting with a large sphere.
+s7/toruslarge_lift.npz,The person is interacting with a large torus.
+s7/spheremedium_pass_1.npz,The person is passing a medium sphere.
+s7/mouse_use_1.npz,The person is useing a mouse.
+s7/cubelarge_lift.npz,The person is interacting with a large cube.
+s7/hand_pass_1.npz,The person is passing a hand.
+s7/spheresmall_inspect_1.npz,The person is inspecting a small sphere.
+s7/stanfordbunny_lift.npz,The person is interacting with a stanfordbunny.
+s7/gamecontroller_play_1.npz,The person is playing a gamecontroller.
+s7/airplane_lift_Retake.npz,The person is lifting a airplane.
+s7/flashlight_pass_1.npz,The person is passing a flashlight.
+s7/toruslarge_inspect_1_Retake.npz,The person is interacting with a large torus.
+s7/piggybank_use_1.npz,The person is useing a piggybank.
+s7/spheresmall_pass_1.npz,The person is passing a small sphere.
+s7/piggybank_lift.npz,The person is interacting with a piggybank.
+s7/headphones_pass_1.npz,The person is passing a headphones.
+s7/eyeglasses_clean_1.npz,The person is cleaning a eyeglasses.
+s7/spherelarge_pass_1.npz,The person is passing a large sphere.
+s7/hammer_pass_1.npz,The person is passing a hammer.
+s7/waterbottle_shake_1.npz,The person is shakeing a waterbottle.
+s7/wineglass_toast_1.npz,The person is toasting a wineglass.
+s7/eyeglasses_pass_1.npz,The person is passing a eyeglasses.
+s7/apple_eat_1.npz,The person is eating a apple.
+s7/hammer_use_3.npz,The person is useing a hammer.
+s7/elephant_pass_1.npz,The person is passing a elephant.
+s7/hammer_use_2.npz,The person is useing a hammer.
+s7/phone_call_1.npz,The person is calling a phone.
+s7/cubelarge_inspect_1.npz,The person is inspecting a large cube.
+s7/banana_eat_1.npz,The person is eating a banana.
+s7/stanfordbunny_inspect_1.npz,The person is inspecting a stanfordbunny.
+s7/hammer_use_1.npz,The person is useing a hammer.
+s7/cylinderlarge_inspect_1.npz,The person is inspecting a large cylinder.
+s7/train_pass_1.npz,The person is passing a train.
+s7/waterbottle_open_1_Retake.npz,The person is interacting with a waterbottle.
+s7/stapler_pass_1.npz,The person is passing a stapler.
+s7/spheremedium_inspect_1.npz,The person is inspecting a medium sphere.
+s7/alarmclock_see_1.npz,The person is interacting with a alarmclock.
+s7/cylindermedium_inspect_1.npz,The person is inspecting a medium cylinder.
+s7/flute_pass_1.npz,The person is passing a flute.
+s7/wineglass_pass_1.npz,The person is passing a wineglass.
+s7/cup_pour_1.npz,The person is pouring a cup.
+s7/bowl_pass_1.npz,The person is passing a bowl.
+s7/hand_inspect_1.npz,The person is inspecting a hand.
+s7/mug_lift.npz,The person is interacting with a mug.
+s7/pyramidlarge_pass_1.npz,The person is passing a large pyramid.
+s7/teapot_pass_1.npz,The person is passing a teapot.
+s7/cylindermedium_pass_1.npz,The person is passing a medium cylinder.
+s7/cubesmall_pass_1.npz,The person is passing a small cube.
+s7/piggybank_pass_1.npz,The person is passing a piggybank.
+s7/headphones_lift.npz,The person is interacting with a headphones.
+s7/pyramidsmall_pass_1.npz,The person is passing a small pyramid.
+s7/cylinderlarge_lift.npz,The person is interacting with a large cylinder.
+s7/cubelarge_pass_1.npz,The person is passing a large cube.
+s7/camera_browse_1.npz,The person is browseing a camera.
+s7/lightbulb_pass_1.npz,The person is passing a lightbulb.
+s7/pyramidsmall_inspect_1.npz,The person is inspecting a small pyramid.
+s7/airplane_pass_1.npz,The person is passing a airplane.
+s7/spherelarge_inspect_1.npz,The person is inspecting a large sphere.
+s7/torussmall_pass_1.npz,The person is passing a small torus.
+s7/pyramidlarge_lift.npz,The person is interacting with a large pyramid.
+s7/toothbrush_pass_1.npz,The person is passing a toothbrush.
+s7/stamp_pass_1.npz,The person is passing a stamp.
+s7/cylindersmall_pass_1.npz,The person is passing a small cylinder.
+s7/banana_peel_2.npz,The person is peeling a banana.
+s7/apple_lift.npz,The person is interacting with a apple.
+s7/mug_drink_1.npz,The person is drinking from a mug.
+s7/doorknob_use_2.npz,The person is useing a doorknob.
+s7/cylinderlarge_pass_1.npz,The person is passing a large cylinder.
+s7/apple_pass_1.npz,The person is passing a apple.
+s7/wineglass_drink_2.npz,The person is drinking from a wineglass.
+s7/train_lift.npz,The person is interacting with a train.
+s7/eyeglasses_wear_1.npz,The person is interacting with a eyeglasses.
+s7/phone_pass_1.npz,The person is passing a phone.
+s7/stanfordbunny_pass_1.npz,The person is passing a stanfordbunny.
+s7/train_play_1.npz,The person is playing a train.
+s7/banana_peel_1.npz,The person is peeling a banana.
+s7/camera_takepicture_3.npz,The person is takepictureing a camera.
+s7/gamecontroller_lift.npz,The person is interacting with a gamecontroller.
+s7/watch_pass_1.npz,The person is passing a watch.
+s7/camera_takepicture_2.npz,The person is takepictureing a camera.
+s7/mug_drink_2.npz,The person is drinking from a mug.
+s7/doorknob_use_1.npz,The person is useing a doorknob.
+s7/wineglass_drink_1.npz,The person is drinking from a wineglass.
+s7/hammer_lift.npz,The person is interacting with a hammer.
+s7/waterbottle_pass_1.npz,The person is passing a waterbottle.
+s7/pyramidmedium_pass_1.npz,The person is passing a medium pyramid.
+s7/cylindersmall_inspect_1.npz,The person is inspecting a small cylinder.
+s7/pyramidmedium_inspect_1.npz,The person is inspecting a medium pyramid.
+s7/camera_pass_1.npz,The person is passing a camera.
+s7/torussmall_inspect_1.npz,The person is inspecting a small torus.
+s7/duck_inspect_1.npz,The person is inspecting a duck.
+s7/binoculars_pass_1.npz,The person is passing a binoculars.
+s9/eyeglasses_lift.npz,The person is interacting with a eyeglasses.
+s9/cubemedium_inspect_1.npz,The person is inspecting a medium cube.
+s9/doorknob_lift.npz,The person is interacting with a doorknob.
+s9/waterbottle_open_1.npz,The person is interacting with a waterbottle.
+s9/waterbottle_drink_1.npz,The person is drinking from a waterbottle.
+s9/watch_set_2.npz,The person is seting a watch.
+s9/flashlight_on_1.npz,The person is interacting with a flashlight.
+s9/bowl_drink_1.npz,The person is drinking from a bowl.
+s9/headphones_use_1.npz,The person is useing a headphones.
+s9/airplane_lift.npz,The person is interacting with a airplane.
+s9/cubemedium_lift.npz,The person is interacting with a medium cube.
+s9/flashlight_lift.npz,The person is interacting with a flashlight.
+s9/stapler_staple_2.npz,The person is stapleing a stapler.
+s9/mouse_pass_1.npz,The person is passing a mouse.
+s9/toothpaste_lift.npz,The person is interacting with a toothpaste.
+s9/alarmclock_lift.npz,The person is interacting with a alarmclock.
+s9/watch_set_1.npz,The person is seting a watch.
+s9/gamecontroller_pass_1.npz,The person is passing a gamecontroller.
+s9/cup_drink_1.npz,The person is drinking from a cup.
+s9/toothpaste_pass_1.npz,The person is passing a toothpaste.
+s9/bowl_drink_2.npz,The person is drinking from a bowl.
+s9/banana_pass_1.npz,The person is passing a banana.
+s9/stamp_lift.npz,The person is interacting with a stamp.
+s9/cup_pass_1.npz,The person is passing a cup.
+s9/duck_pass_1.npz,The person is passing a duck.
+s9/pyramidlarge_inspect_1.npz,The person is inspecting a large pyramid.
+s9/mug_pass_1.npz,The person is passing a mug.
+s9/stamp_stamp_1.npz,The person is stamping a stamp.
+s9/banana_lift.npz,The person is interacting with a banana.
+s9/elephant_inspect_1.npz,The person is inspecting a elephant.
+s9/cubemedium_pass_1.npz,The person is passing a medium cube.
+s9/spheremedium_pass_1.npz,The person is passing a medium sphere.
+s9/mouse_use_1.npz,The person is useing a mouse.
+s9/cubelarge_lift.npz,The person is interacting with a large cube.
+s9/hand_pass_1.npz,The person is passing a hand.
+s9/spheresmall_inspect_1.npz,The person is inspecting a small sphere.
+s9/teapot_pour_2.npz,The person is pouring a teapot.
+s9/torusmedium_inspect_1.npz,The person is inspecting a medium torus.
+s9/gamecontroller_play_1.npz,The person is playing a gamecontroller.
+s9/toothpaste_squeeze_1.npz,The person is interacting with a toothpaste.
+s9/flashlight_pass_1.npz,The person is passing a flashlight.
+s9/elephant_lift.npz,The person is interacting with a elephant.
+s9/piggybank_use_1.npz,The person is useing a piggybank.
+s9/spheresmall_pass_1.npz,The person is passing a small sphere.
+s9/eyeglasses_clean_1.npz,The person is cleaning a eyeglasses.
+s9/spherelarge_pass_1.npz,The person is passing a large sphere.
+s9/hammer_pass_1.npz,The person is passing a hammer.
+s9/waterbottle_shake_1.npz,The person is shakeing a waterbottle.
+s9/eyeglasses_pass_1.npz,The person is passing a eyeglasses.
+s9/apple_eat_1.npz,The person is eating a apple.
+s9/wineglass_toast_1_Retake.npz,The person is interacting with a wineglass.
+s9/hammer_use_3.npz,The person is useing a hammer.
+s9/knife_pass_1.npz,The person is passing a knife.
+s9/airplane_fly_1.npz,The person is flying a airplane.
+s9/elephant_pass_1.npz,The person is passing a elephant.
+s9/stapler_lift.npz,The person is interacting with a stapler.
+s9/hammer_use_2.npz,The person is useing a hammer.
+s9/waterbottle_pour_1.npz,The person is pouring a waterbottle.
+s9/cubelarge_inspect_1.npz,The person is inspecting a large cube.
+s9/banana_eat_1.npz,The person is eating a banana.
+s9/piggybank_lift_Retake.npz,The person is lifting a piggybank.
+s9/toruslarge_inspect_1.npz,The person is inspecting a large torus.
+s9/bowl_lift.npz,The person is interacting with a bowl.
+s9/stanfordbunny_inspect_1.npz,The person is inspecting a stanfordbunny.
+s9/hammer_use_1.npz,The person is useing a hammer.
+s9/cylinderlarge_inspect_1.npz,The person is inspecting a large cylinder.
+s9/stapler_pass_1.npz,The person is passing a stapler.
+s9/spheremedium_inspect_1.npz,The person is inspecting a medium sphere.
+s9/torussmall_lift.npz,The person is interacting with a small torus.
+s9/alarmclock_see_1.npz,The person is interacting with a alarmclock.
+s9/pyramidmedium_lift_Retake.npz,The person is lifting a medium pyramid.
+s9/cylindermedium_lift.npz,The person is interacting with a medium cylinder.
+s9/duck_lift.npz,The person is interacting with a duck.
+s9/cylindermedium_inspect_1.npz,The person is inspecting a medium cylinder.
+s9/camera_lift.npz,The person is interacting with a camera.
+s9/flute_pass_1.npz,The person is passing a flute.
+s9/wineglass_pass_1.npz,The person is passing a wineglass.
+s9/bowl_pass_1.npz,The person is passing a bowl.
+s9/hand_inspect_1.npz,The person is inspecting a hand.
+s9/pyramidlarge_pass_1.npz,The person is passing a large pyramid.
+s9/teapot_pass_1.npz,The person is passing a teapot.
+s9/cylindermedium_pass_1.npz,The person is passing a medium cylinder.
+s9/cubesmall_pass_1.npz,The person is passing a small cube.
+s9/piggybank_pass_1.npz,The person is passing a piggybank.
+s9/cylinderlarge_lift.npz,The person is interacting with a large cylinder.
+s9/cubelarge_pass_1.npz,The person is passing a large cube.
+s9/camera_browse_1.npz,The person is browseing a camera.
+s9/lightbulb_pass_1.npz,The person is passing a lightbulb.
+s9/waterbottle_lift.npz,The person is interacting with a waterbottle.
+s9/airplane_pass_1.npz,The person is passing a airplane.
+s9/spherelarge_inspect_1.npz,The person is inspecting a large sphere.
+s9/torussmall_pass_1.npz,The person is passing a small torus.
+s9/toothbrush_pass_1.npz,The person is passing a toothbrush.
+s9/stamp_pass_1.npz,The person is passing a stamp.
+s9/cylindersmall_pass_1.npz,The person is passing a small cylinder.
+s9/banana_peel_2.npz,The person is peeling a banana.
+s9/flute_play_1.npz,The person is playing a flute.
+s9/apple_lift.npz,The person is interacting with a apple.
+s9/camera_takepicture_1.npz,The person is takepictureing a camera.
+s9/doorknob_use_2.npz,The person is useing a doorknob.
+s9/cylinderlarge_pass_1.npz,The person is passing a large cylinder.
+s9/apple_pass_1.npz,The person is passing a apple.
+s9/wineglass_drink_2.npz,The person is drinking from a wineglass.
+s9/hand_shake_1.npz,The person is shakeing a hand.
+s9/eyeglasses_wear_1.npz,The person is interacting with a eyeglasses.
+s9/phone_pass_1.npz,The person is passing a phone.
+s9/stanfordbunny_pass_1.npz,The person is passing a stanfordbunny.
+s9/alarmclock_pass_1.npz,The person is passing a alarmclock.
+s9/banana_peel_1.npz,The person is peeling a banana.
+s9/watch_pass_1.npz,The person is passing a watch.
+s9/mug_drink_2.npz,The person is drinking from a mug.
+s9/mouse_lift.npz,The person is interacting with a mouse.
+s9/wineglass_drink_1.npz,The person is drinking from a wineglass.
+s9/cubesmall_inspect_1.npz,The person is inspecting a small cube.
+s9/lightbulb_screw_1.npz,The person is screwing a lightbulb.
+s9/torusmedium_pass_1.npz,The person is passing a medium torus.
+s9/waterbottle_pass_1.npz,The person is passing a waterbottle.
+s9/pyramidmedium_pass_1.npz,The person is passing a medium pyramid.
+s9/cylindersmall_inspect_1.npz,The person is inspecting a small cylinder.
+s9/pyramidmedium_inspect_1.npz,The person is inspecting a medium pyramid.
+s9/camera_pass_1.npz,The person is passing a camera.
+s9/cup_lift.npz,The person is interacting with a cup.
+s9/torussmall_inspect_1.npz,The person is inspecting a small torus.
+s9/duck_inspect_1.npz,The person is inspecting a duck.
+s9/binoculars_pass_1.npz,The person is passing a binoculars.
