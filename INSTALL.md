@@ -15,7 +15,7 @@ First, clone the HOIDiNi repository:
 
 ```bash
 git clone git@github.com:hoidini/HOIDiNi.git
-cd hoidini
+cd HOIDiNi
 ```
 
 ## 2. Quick Installation (Recommended)
