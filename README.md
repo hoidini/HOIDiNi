@@ -33,7 +33,7 @@ HOIDiNi generates realistic 3D human–object interactions conditioned on text p
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/roeyron/hoidini.git
+git clone git@github.com:hoidini/HOIDiNi.git
 cd hoidini
 ```
 
