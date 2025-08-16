@@ -43,12 +43,12 @@ cd HOIDiNi
 bash setup.sh
 ```
 
-### 4. Download the dataset and pretrained model from Hugging Face
+### 3. Download the dataset and pretrained model from Hugging Face
 ```bash
 hf download Roey/hoidini --repo-type dataset --local-dir hoidini_data
 ```
 
-### 5. Ready to use!
+### 4. Ready to use!
 The code will automatically use the downloaded data from `hoidini_data/`. No path configuration needed!
 
 **Directory structure after setup:**
