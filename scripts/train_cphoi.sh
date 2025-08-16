@@ -3,10 +3,6 @@ conda activate hoidini
 export PYTHONPATH="${PYTHONPATH}:$(pwd)"
 SAVE_DIR=hoidini_training/cphoi_v0
 
-
-# Set Python path
-export PYTHONPATH="${PYTHONPATH}:$(pwd)"
-
 python hoidini/cphoi/cphoi_train.py \
     save_dir=$SAVE_DIR \
     debug_mode=False \
