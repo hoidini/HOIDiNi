@@ -569,7 +569,8 @@ class TrainLoop:
         return f"model{(self.total_step()):09d}.pt"
 
     def generate_during_training(self):
-        raise NotImplementedError("generate_during_training is not implemented")
+        pass
+        # raise NotImplementedError("generate_during_training is not implemented")
 
     def find_resume_checkpoint(self) -> Optional[str]:
         """look for all file in save directory in the pattent of model{number}.pt
